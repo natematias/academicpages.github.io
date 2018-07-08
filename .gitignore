@@ -1,4 +1,5 @@
 _site/
 *.swp
+.ipynb_checkpoints/
 Gemfile.lock
 
