@@ -25,6 +25,18 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+        <li><a href="https://civilservant.io"><i class="fa fa-fw fa-globe" aria-hidden="true"></i> CivilServant</a></li>
+      {% if author.medium %}
+        <li><a href="https://medium.com/@{{author.medium}}"><i class="fa fa-fw fa-medium" aria-hidden="true"></i> Medium (2017-)</a></li>
+      {% endif %}
+      {% if author.princetonblog %}
+        <li><a href="{{author.princetonblog}}"><i class="fa fa-fw fa-globe" aria-hidden="true"></i> Princeton Blog (2017-)</a></li>
+      {% endif %}
+      {% if author.mitblog %}
+        <li><a href="{{author.mitblog}}"><i class="fa fa-fw fa-university" aria-hidden="true"></i> MIT Blog (2011-2017)</a></li>
+      {% endif %}
+
+      <hr/>
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -38,7 +50,7 @@
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> @{{ author.twitter }}</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -83,7 +95,7 @@
         <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fa fa-fw fa-steam-square" aria-hidden="true"></i> Steam</a></li>
       {% endif %}
       {% if author.youtube %}
-        <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> YouTube</a></li>
+        <li><a href="{{ author.youtube }}"><i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> CivilServant YouTube</a></li>
       {% endif %}
       {% if author.soundcloud %}
         <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fa fa-fw fa-soundcloud" aria-hidden="true"></i> Soundcloud</a></li>
@@ -106,8 +118,11 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
+      {% if author.reddit %}
+        <li><a href="http://reddit.com/u/{{ author.wikipedia }}"><i class="fa fa-fw fa-reddit" aria-hidden="true"></i> reddit</a></li>
+      {% endif %}
       {% if author.wikipedia %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
+        <li><a href="https://meta.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia Meta</a></li>
       {% endif %}
     </ul>
   </div>

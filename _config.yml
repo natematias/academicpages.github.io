@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "J. Nathan Matias"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "J. Nathan Matias"
+description              : &description "Postdoc: Princeton, Founder: CivilServant"
+url                      : https://natematias.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/2018-website-tests/natematias" # the subpath of your site, e.g. "/blog"
+repository               : "natematias/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Dr. J. Nathan Matias"
+  avatar           : "https://natematias.com/indexetc/img/profile.png"
+  bio              : "Postdoc, Princeton<br/>Founder, CivilServant<br/>Visiting Scholar, MIT"
+  location         : "Princeton/NYC, Boston"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=dxS6iCgAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -92,24 +92,28 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "natematias"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  linkedin         : "natematias"
+  orcid            : "https://orcid.org/0000-0001-8910-0208"
+  mitblog          : "https://civic.mit.edu/author/natematias/"
+  medium           : "natematias"
+  princetonblog    : "https://freedom-to-tinker.com/author/nmatias/"
+  pinterest        : 
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "natematias"
+  reddit           : "natematias"
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  youtube          : "https://www.youtube.com/channel/UCj_XJUS7ydVxc6r52GYWJ7w/featured"
+  wikipedia        : "Rubberpaw"
 
 
 # Reading Files
@@ -173,6 +177,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  external_posts:
     output: true
     permalink: /:collection/:path/
   portfolio:

@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Blog Posts"
+permalink: /external-posts/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.external_posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
