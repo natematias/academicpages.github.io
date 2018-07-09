@@ -1,0 +1,22 @@
+---
+creators:
+- J. Nathan Matias
+date: '2003-12-01'
+excerpt: Spatial Hypertext Information Design
+filename: 2003-12-01-projects-with-tinderbox
+hosts: []
+image: https://farm5.staticflickr.com/4093/4755692519_04c30ae3a2_m.jpg
+subtitle: Spatial Hypertext Information Design
+tags:
+- project
+- design
+- art
+- hypertext
+title: Projects with Tinderbox
+uri: ''
+---
+
+  <p>Since I first wrote about <a href="http://www.eastgate.com/Tinderbox/">Tinderbox</a> by Eastgate Systems in a series on hypertext for SitePoint in 2003, I have been using it for a broad range of information design tasks across academic work, charities, and business.  One of my businesses, <a href="http://emberlight.net">Emberlight</a>, relies on Tinderbox. I have given talks at numerous Tinderbox weekends.</p>
+<p>It's very special in the fast-paced technology industry to develop long-term expertise in an area of software. Tinderbox is unusually satisfying in this way, since its flexibility has kept up with my needs.</p>
+<p>I have used Tinderbox for information design on hundreds of small projects-- too many to list here. To give you a taste, here are some screenshots of things I have done with Tinderbox which don't appear elsewhere in this portfolio.</p>
+<a title="A simple project management Tinderbox file by Emberlight, on Flickr" href="http://www.flickr.com/photos/emberlight/5150724911/"><img width="240" height="216" alt="A simple project management Tinderbox file" src="https://farm5.static.flickr.com/4023/5150724911_d2889847af_m.jpg"/></a> <a title="Between X and Y Falls the Shadow by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4036276928/"><img width="240" height="133" alt="Between X and Y Falls the Shadow" src="https://farm3.static.flickr.com/2619/4036276928_bde0584cc2_m.jpg"/></a>  <a title="Collaboration Space, Tinderbox Weekend 2009, London by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3508395088/"><img width="240" height="192" alt="Collaboration Space, Tinderbox Weekend 2009, London" src="https://farm4.static.flickr.com/3354/3508395088_ddbff9b89f_m.jpg"/></a> <a title="event-overview by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3734478527/"><img width="240" height="180" alt="event-overview" src="https://farm3.static.flickr.com/2614/3734478527_85c4fa97aa_m.jpg"/></a>  <a title="expose-sources-writing by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3734478519/"><img width="240" height="180" alt="expose-sources-writing" src="https://farm3.static.flickr.com/2427/3734478519_0e6924131d_m.jpg"/></a> <a title="Collaboration Patterns for Tinderbox by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3734602659/"><img width="240" height="153" alt="Collaboration Patterns for Tinderbox" src="https://farm3.static.flickr.com/2481/3734602659_cf022d3fb3_m.jpg"/></a> <a title="Frog and Toad's Fabulous Peanut Experiment by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3855815307/"><img width="240" height="150" alt="Frog and Toad's Fabulous Peanut Experiment" src="https://farm3.static.flickr.com/2489/3855815307_998d01147d_m.jpg"/></a>  <a title="32. Drinking by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4755692519/"><img width="240" height="152" alt="32. Drinking" src="https://farm5.static.flickr.com/4093/4755692519_04c30ae3a2_m.jpg"/></a> <a title="notes from Literary Studies Now by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3510923683/"><img width="240" height="176" alt="notes from Literary Studies Now" src="https://farm4.static.flickr.com/3414/3510923683_6a235cb560_m.jpg"/></a>  <a title="Second Try at Collaborative Space by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3511710564/"><img width="240" height="202" alt="Second Try at Collaborative Space" src="https://farm4.static.flickr.com/3364/3511710564_79f061ceea_m.jpg"/></a> <a title="toplevel-view by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/3734478529/"><img width="240" height="210" alt="toplevel-view" src="https://farm3.static.flickr.com/2662/3734478529_fdec791e92_m.jpg"/></a>  <a title="33. Chiasmus In Ruth 2 by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4769634412/"><img width="92" height="240" alt="33. Chiasmus In Ruth 2" src="https://farm5.static.flickr.com/4082/4769634412_1c4aa2b595_m.jpg"/></a>

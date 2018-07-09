@@ -1,0 +1,23 @@
+---
+creators:
+- J. Nathan Matias
+date: '2010-05-21'
+excerpt: Experiments in Visual Rhetoric
+filename: 2010-05-21-visual-summaries
+hosts: []
+image: ''
+subtitle: Experiments in Visual Rhetoric
+tags:
+- project
+- hypertext
+- design
+title: Visual Summaries
+uri: https://secure.flickr.com/photos/natematias/sets/72157624107999906/
+---
+
+<p>In the summer of 2010, Steve Ersinghaus convinced me to conduct an extended creative experiment in visual rhetoric: create one visual summary per day as long as possible. The project has been leading me to think more broadly about spatial hypertext-- beyond its role as personal information manager, toward a role in communication. </p>
+<p>These were all done with <a href="http://eastgate.com/Tinderbox/">Tinderbox</a> and <a href="http://emberlight.net/">Emberlight</a>.</p>
+<ul><li> <a href="http://www.flickr.com/photos/natematias/sets/72157624107999906/">Summaries Project</a> on Flickr</li></ul>
+
+<p>Here are some examples from the project:</p>
+<a title="100 Summaries 2010 by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4626829817/"><img width="240" height="180" alt="100 Summaries 2010" src="https://farm5.static.flickr.com/4035/4626829817_b92f83e188_m.jpg"/></a> <a title="09 Biblical Poetry Reading 7 June 2010 by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4657537109/"><img width="240" height="176" alt="09 Biblical Poetry Reading 7 June 2010" src="https://farm5.static.flickr.com/4025/4657537109_e09348f6bf_m.jpg"/></a>  <a title="Summary and The Craft of Research by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4632928215/"><img width="240" height="152" alt="Summary and The Craft of Research" src="https://farm4.static.flickr.com/3356/4632928215_c1bee30234_m.jpg"/></a>  <a title="Perspective #2 by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4661703924/"><img width="240" height="240" alt="Perspective #2" src="https://farm5.static.flickr.com/4059/4661703924_bdb2453f59_m.jpg"/></a> <a title="Links Convey Meaning by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4667122411/"><img width="182" height="240" alt="Links Convey Meaning" src="https://farm2.static.flickr.com/1276/4667122411_a90bba99b1_m.jpg"/></a> <a title="18: summary of common arguments for and against drawing ethics from Jesus by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4687715368/"><img width="182" height="240" alt="18: summary of common arguments for and against drawing ethics from Jesus" src="https://farm5.static.flickr.com/4068/4687715368_4f8ccbfdec_m.jpg"/></a>  <a title="22. &quot;As We May Think&quot; Panel Talk, ACM Hypertext 2010 by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4708290474/"><img width="79" height="240" alt="22. &quot;As We May Think&quot; Panel Talk, ACM Hypertext 2010" src="https://farm5.static.flickr.com/4060/4708290474_fc5ddb8e0c_m.jpg"/></a> <a title="15: 50 contemporary political ideologies PART ONE by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4676917658/"><img width="240" height="119" alt="15: 50 contemporary political ideologies PART ONE" src="https://farm5.static.flickr.com/4026/4676917658_ccc7baa1fb_m.jpg"/></a>  <a title="26: the sequence of food sharing episodes recorded by Giza Teleki in the Gombe reserve during a day-long consumption of a captured colobus monkey (part one) by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4726444455/"><img width="240" height="98" alt="26: the sequence of food sharing episodes recorded by Giza Teleki in the Gombe reserve during a day-long consumption of a captured colobus monkey (part one)" src="https://farm2.static.flickr.com/1124/4726444455_a916769ea2_m.jpg"/></a> <a title="14: An Imperial Message PART ONE by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4672620965/"><img width="240" height="151" alt="14: An Imperial Message PART ONE" src="https://farm2.static.flickr.com/1300/4672620965_50d038d315_m.jpg"/></a>  <a title="25: The Perfect Moment by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4722158139/"><img width="240" height="148" alt="25: The Perfect Moment" src="https://farm2.static.flickr.com/1188/4722158139_81b7f2f85f_m.jpg"/></a> <a title="31: Summarizing Hauerwas on Yoder by rubberpaw, on Flickr" href="http://www.flickr.com/photos/natematias/4747563238/"><img width="240" height="124" alt="31: Summarizing Hauerwas on Yoder" src="https://farm5.static.flickr.com/4123/4747563238_6c6eb09d21_m.jpg"/>

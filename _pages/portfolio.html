@@ -1,14 +1,20 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+While I haven't kept a full list of projects, event convenings, design work, and other creative activities, the projects on this site go as far back as high school.
 
-{% for post in site.portfolio %}
+
+<div class="grid-container">
+
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+</div>
 
