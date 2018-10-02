@@ -2,16 +2,16 @@
 creators:
 - J. Nathan Matias
 date: '2010-05-21'
-excerpt: Experiments in Visual Rhetoric
+excerpt: '' 
 filename: 2010-05-21-visual-summaries
 hosts: []
-image: ''
-subtitle: Experiments in Visual Rhetoric
+image: 'https://farm5.staticflickr.com/4007/4661119301_2a5b3b5b57_b.jpg'
+subtitle: ''
 tags:
 - project
 - hypertext
 - design
-title: Visual Summaries
+title: "Visual Summaries: Experiments in Visual Rhetoric"
 uri: https://secure.flickr.com/photos/natematias/sets/72157624107999906/
 ---
 

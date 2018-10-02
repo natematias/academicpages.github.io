@@ -4,13 +4,13 @@ creators:
 - Gaia Marcus
 - Laurian Gridinoc
 date: '2011-12-24'
-excerpt: Tablet Tech for Social Checkups
+excerpt: ''
 filename: 2011-12-24-social-mirror
 hosts:
 - The RSA
 - Ctr for Civic Media
 image: http://farm8.staticflickr.com/7183/6958813986_80c364f808_n.jpg
-subtitle: Tablet Tech for Social Checkups
+subtitle: ''
 tags:
 - project
 - medialab

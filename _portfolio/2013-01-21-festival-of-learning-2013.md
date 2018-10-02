@@ -7,7 +7,7 @@ creators:
 - Santiago Alfaro
 - Anne Callahan
 date: '2013-01-21'
-excerpt: learn. teach. do.
+excerpt: ''
 filename: 2013-01-21-festival-of-learning-2013
 hosts:
  - MIT Media Lab

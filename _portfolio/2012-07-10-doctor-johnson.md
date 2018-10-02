@@ -1,13 +1,13 @@
 ---
 creators:
 - J. Nathan Matias
-date: '2012-07-10'
-excerpt: Rapid Prototyping Framework for Predictive Text Experiments
+date: '2011-07-10'
+excerpt: ""
 filename: 2012-07-10-doctor-johnson
 hosts:
 - SwiftKey
 image: http://natematias.com/portfolio/images/drjohnson_console.png
-subtitle: Rapid Prototyping Framework for Predictive Text Experiments
+subtitle: 
 tags:
 - project
 - nlp

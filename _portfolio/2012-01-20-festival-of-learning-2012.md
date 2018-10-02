@@ -12,21 +12,21 @@ creators:
 - Charlie DeTar
 - David Moinina Sengeh
 date: '2012-01-20'
-excerpt: learn. teach. do.
+excerpt: ''
 filename: 2012-01-20-festival-of-learning-2012
 hosts:
 - MIT Media Lab
 - ACT
 - CMS
 image: https://farm8.staticflickr.com/7019/6786158941_2a305d67cb_m.jpg
-subtitle: learn. teach. do.
+subtitle: ''
 tags:
 - event
 - medialab
 - featured
 - main
-title: Festival of  Learning 2012
-uri: festival-of-learning.media.mit.edu
+title: Festival of Learning 2012
+uri: https://festival-of-learning.media.mit.edu
 ---
 
 <p>In 2012, I coordinated the first <a href="http://festival-of-learning.media.mit.edu">Festival of Learning</a>,  a two-day festival where anyone from MIT's  Media Lab, Arts/Culture/Technology, and Comparative Media Studies could teach, learn, and collaborate!</p>

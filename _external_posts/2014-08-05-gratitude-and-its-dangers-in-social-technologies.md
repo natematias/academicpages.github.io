@@ -2,8 +2,8 @@
 title: 'Gratitude and its Dangers in Social Technologies'
 date: 2014-08-14
 link: https://civic.mit.edu/2014/8/5/gratitude-and-its-dangers-in-social-technologies/
-publisher: MIT
-image: https://i.imgur.com/KaWwC8m.png
+publisher: MIT Center for Civic Media
+image: 
 tags:
   - CivicMIT
   - gratitude

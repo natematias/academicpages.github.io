@@ -6,12 +6,12 @@ creators:
 - Joe Paradiso
 - Matt Stempeck
 date: '2012-07-01'
-excerpt: power strip that takes mobile payments
+excerpt:  ''
 filename: 2012-07-01-grassroots-mobile
 hosts:
 - MIT Media Lab
 image: http://farm9.staticflickr.com/8213/8330571652_b7d08aaf5d_m.jpg
-subtitle: power strip that takes mobile payments
+subtitle: 
 tags:
 - project
 - medialab

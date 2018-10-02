@@ -2,11 +2,11 @@
 creators:
 - J. Nathan Matias
 date: '2004-12-01'
-excerpt: technology processes for creative nonfiction research
+excerpt: ''
 filename: 2004-12-01-an-accordion-for-the-world
 hosts: []
 image: http://www.rubberpaw.com/plates/tinderbox-wall.jpg
-subtitle: technology processes for creative nonfiction research
+subtitle: ''
 tags:
 - research
 - hypertext

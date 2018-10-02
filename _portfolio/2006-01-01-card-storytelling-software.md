@@ -6,7 +6,7 @@ date: '2006-01-01'
 excerpt: ''
 filename: 2006-01-01-card-storytelling-software
 hosts: []
-image: ''
+image: 'https://farm2.staticflickr.com/1939/44155418524_b4a0a6a6df_m.jpg'
 subtitle: ''
 tags:
 - project

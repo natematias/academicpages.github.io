@@ -2,11 +2,11 @@
 creators:
 - J. Nathan Matias
 date: '2010-05-19'
-excerpt: Forever Knowledge
+excerpt: ''
 filename: 2010-05-19-edwart-tufte-at-intelligence2
 hosts: []
 image: https://farm5.static.flickr.com/4041/4629814787_9292633301.jpg
-subtitle: Forever Knowledge
+subtitle: ''
 tags:
 - project
 - design

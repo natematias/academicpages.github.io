@@ -8,7 +8,7 @@ excerpt: ''
 filename: 2010-04-01-code-institute
 hosts:
 - CoDE Research
-image: http://www.anglia.ac.uk/ruskin/en/home/microsites/code/code_events.Maincontent.0029.Image.gif
+image: https://farm2.staticflickr.com/1936/44875638651_e6ca6ce36d_m.jpg
 subtitle: ''
 tags:
 - academic

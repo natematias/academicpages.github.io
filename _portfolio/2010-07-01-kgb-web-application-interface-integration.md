@@ -3,12 +3,12 @@ creators:
 - J. Nathan Matias
 - Robert D. Heaney
 date: '2010-07-01'
-excerpt: '2010'
+excerpt: ''
 filename: 2010-07-01-kgb-web-application-interface-integration
 hosts:
 - Texperts Wizards
 image: https://farm4.static.flickr.com/3250/3120067599_277c78e6bc_m.jpg
-subtitle: '2010'
+subtitle: ''
 tags:
 - project
 - design

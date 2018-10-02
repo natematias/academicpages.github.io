@@ -2,12 +2,12 @@
 creators:
 - J. Nathan Matias
 date: '2010-12-28'
-excerpt: Shakespeare with fewer Monkeys and Typewriters
+excerpt: ''
 filename: 2010-12-28-swift-speare-statistical-poetry
 hosts:
 - SwiftKey
 image: http://farm6.staticflickr.com/5261/5644317701_c3ff461fb8_n.jpg
-subtitle: Shakespeare with fewer Monkeys and Typewriters
+subtitle: ''
 tags:
 - project
 title: Swift-Speare Statistical Poetry

@@ -3,11 +3,11 @@ creators:
 - J. Nathan Matias
 - David Williams
 date: '2010-08-01'
-excerpt: Wittgenstein Design Project
+excerpt: ''
 filename: 2010-08-01-the-hacktatus
 hosts: []
 image: http://farm9.staticflickr.com/8497/8322346548_ed51c275eb.jpg
-subtitle: Wittgenstein Design Project
+subtitle: ''
 tags:
 - design
 - project

@@ -7,12 +7,12 @@ creators:
 - make:good
 - Heather Taylor
 date: '2010-06-01'
-excerpt: Hoxton Street Monster Supply Company
+excerpt: ''
 filename: 2010-06-01-the-ministry-of-stories
 hosts:
 - Ministry of Stories
 image: http://i.imgur.com/MBmwA.jpg
-subtitle: Hoxton Street Monster Supply Company
+subtitle: ''
 tags:
 - org
 - charity

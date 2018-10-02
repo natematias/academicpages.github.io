@@ -14,7 +14,7 @@ excerpt: ''
 filename: 2009-12-01-scaling-for-kgbs-superbowl-tv
 hosts:
 - Texperts Wizards
-image: http://www.youtube.com/embed/ioIm3BcupvA
+image: https://farm2.staticflickr.com/1977/44155320754_a4b8e5594b_m.jpg
 subtitle: ''
 tags:
 - project
@@ -36,3 +36,5 @@ uri: ''
 <li> Run simulated performance tests as part of the development and deployment process of scaling and testing our new architecture</li></ul></li>
 <li> Briefing our technology partners on the superbowl project, what our plans for scaling were, and discussing how to coordinate our efforts</li></ul>
 <p>I wrote an article on one aspect of this project for RailsInside: "<a href="http://www.railsinside.com/case-studies/421-kgb-scaling-superbowl-traffic-case-study.html">How a Realtime SMS Service Scaled to Super Bowl Traffic with Rails</a>."</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ioIm3BcupvA?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

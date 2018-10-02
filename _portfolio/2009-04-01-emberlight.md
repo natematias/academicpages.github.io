@@ -3,11 +3,11 @@ creators:
 - J. Nathan Matias
 - Frederick cheung
 date: '2009-04-01'
-excerpt: Visual Notes Online
+excerpt: ''
 filename: 2009-04-01-emberlight
 hosts: []
 image: http://farm9.staticflickr.com/8048/8369428666_9dce3eafe4_m.jpg
-subtitle: Visual Notes Online
+subtitle: ''
 tags:
 - project
 - company

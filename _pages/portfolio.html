@@ -7,13 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-While I haven't kept a full list of projects, event convenings, design work, and other creative activities, the projects on this site go as far back as high school.
+While I haven't kept a full list of projects, event convenings, design work, and other creative activities, the projects on this site go as far back as high school. To see my academic projects, see my list of <u><a href="../publications/" >publications</a></u>.
 
+<hr/>
 
 <div class="grid-container">
 
 {% for post in site.portfolio reversed %}
-  {% include archive-single.html %}
+  {% include portfolio-archive-single.html type="grid"%}
 {% endfor %}
 
 </div>
