@@ -12,11 +12,9 @@ I study behavior change in groups and networks in contexts shaped by algorithms.
 
 I advance this work through the nonprofit <a href="https://civilservant.io">CivilServant</a> and as an associate research scholar at Princeton University departments of Psychology, Center for Information Technology Policy, and Sociology ([full bio here](bio/)).
 
-<!--{% for post in site.featured reversed %}
-  {% include portfolio-archive-single.html type="grid"%}
-{% endfor %}-->
-
 ### Recent Articles and Posts
+* J. Nathan Matias, Julia Kamin, and Max Klein (2019) [https://community.globalvoices.org/2019/01/kittens-baklava-and-bubble-tea-how-wikipedians-thank-each-other-in-different-languages/](https://community.globalvoices.org/2019/01/kittens-baklava-and-bubble-tea-how-wikipedians-thank-each-other-in-different-languages/)
+* J. Nathan Matias, Austin Hounsel, and Melissa Hopkins (2018) [Do big Social Media Platforms Have Effective Ad Policies?](https://www.theatlantic.com/technology/archive/2018/11/do-big-social-media-platforms-have-effective-ad-policies/574609/). TheAtlantic.com
 * [Why I'm going on the Academic Job Market](https://medium.com/@natematias/why-im-going-on-the-academic-job-market-88caa704c8e1), by J. Nathan Matias
 * Gaffney, D., & Matias, J. N. (2018). [Caveat Emptor, Computational Social Science: Large-Scale Missing Data in a Widely-Published Reddit Corpus](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200162).  PLoS ONE 13(7): e0200162. https://doi.org/10.1371/journal.pone.0200162
 * Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-Led Experiments in Platform Governance](https://q-aps.princeton.edu/sites/default/files/q-aps/files/community_led_experiments_chi_2018-jnmatias.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 9). ACM.

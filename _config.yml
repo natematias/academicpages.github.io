@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "J. Nathan Matias"
 description              : &description "Postdoc: Princeton. Founder: CivilServant"
 url                      : https://natematias.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/2018-website-tests/natematias" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "natematias/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
