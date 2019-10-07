@@ -13,6 +13,8 @@ I study digital governance and behavior change in groups and networks shaped by 
 I advance this work as an assistant professor at the Cornell University Department of Communication and through the nonprofit <a href="https://civilservant.io">CivilServant</a> ([full bio here](bio/)).
 
 ### Recent Articles and Posts
+* Zuckerman, E., Matias, J. N., Bhargava, R., Bermejo, F., & Ko, A. (2019). [Whose Death Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in Police Confrontations, 2013–2016](https://ijoc.org/index.php/ijoc/article/view/8782). International Journal of Communication, 13, 27.
+  * Blog announcement: [Whose deaths matter? New research on Black Lives Matter and media attention](https://medium.com/@EthanZ/whose-deaths-matter-new-research-on-black-lives-matter-and-media-attention-64322e14422d)
 * Matias, J. N. (2019). [Preventing harassment and increasing group participation through social norms in 2,190 online science discussions](/media/JNM-Preventing-Harassment-PNAS-2019.pdf). Proceedings of the National Academy of Sciences, 116(20), 9785-9789.
   * Blog announcement: [Posting rules in science discussions prevents problems & increases participation](https://civilservant.io/moderation_experiment_r_science_rule_posting.html), Civilservant.io
   * Jacobs, Tom (May 10, 2019) [A simple way to reduce harassment in online discussion groups](https://psmag.com/news/a-simple-way-to-reduce-harassment-in-online-discussion-groups), Pacific Standard
