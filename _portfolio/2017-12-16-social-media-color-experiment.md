@@ -4,7 +4,7 @@ creators:
 date: '2017-12-16'
 excerpt: ''
 hosts: []
-image: 'https://raw.githubusercontent.com/natematias/SOC412/master/2-facebook-color/charts/shareable-charts/poem.models.adjusted-03.15.2018.png'
+image: 'https://raw.githubusercontent.com/natematias/SOC412/master/past-assignments/2-facebook-color/charts/shareable-charts/poem.models.adjusted-03.15.2018.png'
 subtitle: ''
 tags:
 - social media

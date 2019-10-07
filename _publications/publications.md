@@ -1,3 +1,5 @@
+* Matias, J. N. (2019). [Preventing harassment and increasing group participation through social norms in 2,190 online science discussions](/media/JNM-Preventing-Harassment-PNAS-2019.pdf). Proceedings of the National Academy of Sciences, 116(20), 9785-9789.
+* Matias, J. N. (2019). [The civic labor of volunteer moderators online](https://journals.sagepub.com/doi/full/10.1177/2056305119836778). Social Media+ Society, 5(2), 2056305119836778.
 * 2018. Matias, J. N., Mou, M.   CivilServant: Community-Led Experiments in Platform Governance. In <em>{Proceedings of the Conference on Computer Human Interaction (CHI)</em>. ACM Press.
 * 2018. Gaffney D., Matias J.N. Caveat Emptor, Computational Social Science: Large-scale missing data in a widely-published Reddit corpus. PLoS ONE 13(7): e0200162.
 * 2018. Gantman, A., Gomila, R., Martinez, J.E., Matias, J.N., Paluck, E.L., Starck, J., Wu, S. &; Yaffe, N. (in press). A pragmatist philosophy of psychological science and its implications for replication: Commentary on Zwaan et al. \textit{Brain and Behavioral Sciences</em>.

@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Class"
 permalink: /teaching/designing-field-experiments-princeton
 venue: "Princeton University, Sociology"
-image: "http://natematias.com/courses/soc402/ZSATRwm.png"
+image: "http://natematias.com/courses/soc412/ZSATRwm.png"
 date: 2018-01-01
 ---
 
