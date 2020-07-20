@@ -8,7 +8,9 @@ modified: 2020-01-07
 
 Dr. J. [Nathan Matias](https://natematias.com) (<a href="https://twitter.com/natematias">@natematias</a>) organizes citizen behavioral science for a safer, fairer, more understanding internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F9u08n4aSw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/F9u08n4aSw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>-->
+
+<img src="/images/CALS_20190911_55-profile.png" alt="J. Nathan Matias"/>
 
 <br/>
 
