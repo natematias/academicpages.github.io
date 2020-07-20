@@ -25,9 +25,12 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
-        <li><a href="https://civilservant.io"><i class="fa fa-fw fa-globe" aria-hidden="true"></i> CivilServant</a></li>
+        <li><a href="https://citizensandtech.org"><i class="fa fa-fw fa-globe" aria-hidden="true"></i> CAT Lab</a></li>
       {% if author.medium %}
         <li><a href="https://medium.com/@{{author.medium}}"><i class="fa fa-fw fa-medium" aria-hidden="true"></i> Medium (2017-)</a></li>
+      {% endif %}
+      {% if author.cornellblog %}
+        <li><a href="{{author.cornellblog}}"><i class="fa fa-fw fa-university" aria-hidden="true"></i> Cornell Blog (2019-)</a></li>
       {% endif %}
       {% if author.princetonblog %}
         <li><a href="{{author.princetonblog}}"><i class="fa fa-fw fa-globe" aria-hidden="true"></i> Princeton Blog (2017-)</a></li>
@@ -35,6 +38,7 @@
       {% if author.mitblog %}
         <li><a href="{{author.mitblog}}"><i class="fa fa-fw fa-university" aria-hidden="true"></i> MIT Blog (2011-2017)</a></li>
       {% endif %}
+        <li><a href="https://civilservant.io"><i class="fa fa-fw fa-globe" aria-hidden="true"></i> CivilServant (2016-2019)</a></li>
 
       <hr/>
       {% if author.employer %}

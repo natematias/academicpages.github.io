@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "J. Nathan Matias"
 title_separator          : "-"
 name                     : &name "J. Nathan Matias"
-description              : &description "Postdoc: Princeton. Founder: CivilServant"
+description              : &description "Faculty, Cornell. Founder: CAT Lab"
 url                      : https://natematias.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "natematias/academicpages.github.io"
@@ -79,9 +79,9 @@ analytics:
 # Site Author
 author:
   name             : "Dr. J. Nathan Matias"
-  avatar           : "https://natematias.com/indexetc/img/profile.png"
-  bio              : "Postdoc, Princeton.<br/>Founder, CivilServant.<br/>Visiting Scholar, MIT."
-  location         : "Princeton/NYC, Boston"
+  avatar           : "https://natematias.com/images/profile.png"
+  bio              : "Faculty, Cornell.<br/>Founder, CAT Lab.<br/>Visiting Scholar, MIT."
+  location         : "Ithaca/NYC, Boston"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dxS6iCgAAAAJ&hl=en"
   email            :
@@ -100,6 +100,7 @@ author:
   linkedin         : "natematias"
   orcid            : "https://orcid.org/0000-0001-8910-0208"
   mitblog          : "https://civic.mit.edu/author/natematias/"
+  cornellblog      : "https://citizensandtech.org/author/j-nathan-matias/"
   medium           : "natematias"
   princetonblog    : "https://freedom-to-tinker.com/author/nmatias/"
   pinterest        : 
