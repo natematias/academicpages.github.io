@@ -1,0 +1,33 @@
+---
+layout: archive
+title: "Speaking"
+padding: 1
+permalink: /speaking/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>I frequently give public audience and academic talks. In recent years, I have spoken at TED NYC, South by Southwest, Wikimania, the Mozilla Festival, the Veritas Forum, and many universities around the world<!--, including Stanford, Harvard, MIT, Cambridge, Oxford, Princeton, Yale, Columbia University, and Francisco Marroquin-->. I have also given invited talks at tech firms including Twitter, Microsoft, Facebook, Reddit, Disqus, and others.</p>
+
+<div align="center"><img src="../images/nathan-matias-principles-citizen-behavioral-science-900x506.png" width="65%"/></div>
+
+<h3>Scheduling Talks</h3>
+<p>To schedule a talk, please send me an email at <em>nathan.matias@cornell.edu</em>. Until the COVID-19 pandemic is under control, I am giving talks remotely and have a studio space for that purpose.</p>
+
+<p>As a Guatemalan-American who does research and action to advance diverse representation in tech and media, <strong>I decline to participate in all-male or mostly-male events and I can often suggest more diverse speakers</strong>. 
+
+<p>To <a href="https://citizensandtech.org/2020/01/industry-independent-research/">manage conflicts of interest from corporate events</a>, I request that all honoraria and gifts from the technology industry to be sent to the <a href="https://hrdag.org/">Human Rights Data Analysis Group</a> or the <a href="https://www.nwp.org/">National Writing Project</a>.
+
+<h3>Previous Talks & Workshops</h3>
+<p>To give you a sense of the range of my speaking, here is a sample of past talks and workshops</p>
+
+<hr/>
+
+<div class="grid-container">
+
+{% for post in site.speaking reversed %}
+  {% include portfolio-archive-single.html type="grid"%}
+{% endfor %}
+
+</div>

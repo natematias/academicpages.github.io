@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Dr. J. Nathan Matias"
   avatar           : "https://natematias.com/images/profile.png"
-  bio              : "Faculty, Cornell.<br/>Founder, CAT Lab.<br/>Visiting Scholar, MIT."
+  bio              : "Faculty, Cornell.<br/>Founder, CAT Lab."
   location         : "Ithaca/NYC, Boston"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dxS6iCgAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "natematias"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0001-8910-0208"
   mitblog          : "https://civic.mit.edu/author/natematias/"
   cornellblog      : "https://citizensandtech.org/author/j-nathan-matias/"
@@ -109,7 +109,7 @@ author:
   steam            :
   tumblr           :
   twitter          : "natematias"
-  reddit           : "natematias"
+  reddit           : 
   vine             :
   weibo            :
   xing             :
@@ -186,11 +186,11 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  speaking:
+    output: true
+    permalink: /:collection/:path/
   featured:
     output: false
-#  talks:
-#    output: true
-#    permalink: /:collection/:path/
 
 
 # Defaults
@@ -204,7 +204,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: false
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -220,7 +220,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: false
   # _publications
 #  - scope:
@@ -238,16 +238,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: false
-  # _talks
+  # _speaking
   #- scope:
   #    path: ""
-  #    type: talks
+  #    type: speaking
   #  values:
-  #    layout: talk
+  #    layout: portfolio
   #    author_profile: true
-  #    share: true
+  #    share: false
 
 # Sass/SCSS
 sass:

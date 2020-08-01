@@ -11,6 +11,8 @@ redirect_from:
 I study digital governance and behavior change in groups and networks shaped by algorithms. I also organize citizen behavioral science with communities of millions toward a world where the power of digital technology is guided by evidence and accountable to the public.
 <p>I advance this work as an assistant professor at the Cornell University Department of Communication and through the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>).</p>
 
+<a href="https://citizensandtech.org"><img src="images/CAT-Logo-Horizontal-social-media-preview-color.png" style="height:90px;"/></a> 
+<a href="https://upworthy.natematias.com"><img src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 
 ### Recent Articles and Posts
 * Matias, J. N., Al-Kashif, R., Kamin, J., Klein, M., Pennington, E. (2020) 💗[Volunteers Thanked Thousands of Wikipedia Editors to Learn the Effects of Receiving Thanks](https://citizensandtech.org/2020/06/effects-of-saying-thanks-on-wikipedia/). Citizens and Technology Lab ([preprint](https://osf.io/dmwef/))
@@ -33,10 +35,9 @@ I study digital governance and behavior change in groups and networks shaped by 
 <!--* [Teaching the craft, ethics, and politics of field experiments](https://freedom-to-tinker.com/2018/07/03/teaching-the-craft-ethics-and-politics-of-field-experiments/), by J. Nathan Matias-->
 
 ### Guide for Journalists &amp; Event Organizers
-As someone who regularly gives keynotes, appears on panels, and commits acts of journalism, I do what I can to support high quality conversation on tech and society: as a speaker, as a source, and by helping you find experts. 
+As someone who regularly gives keynotes, appears on panels, and commits acts of journalism, I do what I can to support high quality conversation on tech and society: as a speaker, as a source, and by helping you find experts. I also collaborate with journalists on data journalism projects related to tech companies, their policies, and online behavior. To invite me to give a talk, see my page about [talks and speaking](/speaking/).
 
-I have spoken at TED, Aspen, Wikimania, the Mozilla Festival, the Veritas Forum, and many universities around the world. I have given invited talks at tech firms including Twitter, Microsoft, Facebook, Reddit, Disqus, and others. I and my work have been covered by the New York Times, the Wall Street Journal, the Guardian, NPR's All Things Considered, the Canadian Broadcasting Company, FastCompany, the Boston Globe, and more.
+<!--I have spoken at TED, Aspen, Wikimania, the Mozilla Festival, the Veritas Forum, and many universities around the world. I have given invited talks at tech firms including Twitter, Microsoft, Facebook, Reddit, Disqus, and others. I and my work have been covered by the New York Times, the Wall Street Journal, the Guardian, NPR's All Things Considered, the Canadian Broadcasting Company, FastCompany, the Boston Globe, and more.-->
 
-As a Guatemalan-American who does research and action to advance diverse representation in tech and media, **I decline to participate in all-male or mostly-male events** and if needed, I can sometimes suggest more diverse speakers. I also collaborate with journalists on data journalism projects related to tech companies, their policies, and online behavior.
  
 For questions related to the Citizens and Technology Lab and my academic work at Cornell, please write me at nathan.matias@cornell.edu.

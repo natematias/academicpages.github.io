@@ -46,3 +46,10 @@ color:#999;
 }
 
 .customclear{clear:both;}
+
+.location{
+  line-height:1;
+  font-size:0.75em;
+  font-style:italic;
+  margin-bottom: 5px;
+}

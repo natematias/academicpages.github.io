@@ -10,6 +10,8 @@ Dr. J. [Nathan Matias](https://natematias.com) (<a href="https://twitter.com/nat
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/F9u08n4aSw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>-->
 
+<!--<div align="center"><img src="../images/nathan-matias-principles-citizen-behavioral-science-      900x506.png" width="65%"/></div>-->
+
 <img src="/images/CALS_20190911_55-profile.png" alt="J. Nathan Matias"/>
 
 <br/>

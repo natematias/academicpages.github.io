@@ -3,4 +3,5 @@ _site/
 .ipynb_checkpoints/
 Gemfile.lock
 database.yml
+*.DS_Store
 
