@@ -15,6 +15,7 @@ I study digital governance and behavior change in groups and networks shaped by 
 <a href="https://upworthy.natematias.com"><img src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 
 ### Recent Articles and Posts
+* Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment.](https://citizensandtech.org/2020/09/chilling-effect-automated-law-enforcemen/) ([preprint](https://osf.io/nc7e2/)).
 * Matias, J. N., Al-Kashif, R., Kamin, J., Klein, M., Pennington, E. (2020) 💗[Volunteers Thanked Thousands of Wikipedia Editors to Learn the Effects of Receiving Thanks](https://citizensandtech.org/2020/06/effects-of-saying-thanks-on-wikipedia/). Citizens and Technology Lab ([preprint](https://osf.io/dmwef/))
 * Matias, J. N., Simko, T., Reddan, M. (2020) [Reducing the Silencing Role of harassment in Online Feminism Discussions 🎯😷](https://citizensandtech.org/2020/06/reducing-harassment-impacts-in-feminism-online/). Citizens and Technology Lab
 * Matias, J.N. (2020) [Why We Need Industry-Independent Research on Tech & Society 🍔](https://citizensandtech.org/2020/01/industry-independent-research/). Cornell Citizens &amp; Technology Lab.
