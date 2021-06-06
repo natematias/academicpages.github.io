@@ -5,7 +5,7 @@ date: '2021-06-06'
 excerpt: ''
 hosts: []
 image: '/images/2021-06-ithaca-allergies/aurora-maze.jpg'
-subtitle: ''
+description: 'Are you moving to the Ithaca area? Check out these tips before deciding where to live.'
 tags:
 - health
 title: "Tips for moving to Ithaca if you have allergies/asthma"
@@ -27,7 +27,11 @@ Allergies, asthma, and migraines vary by person and place, so please talk to you
 
 Why did that matter? We learned the hard way that some parts of the region are unsafe to live for people with allergies and asthma. When we contacted our allergist this spring, they immediately understood the problem. "If medication doesn't help, you will have to move" they said, explaining that our symptoms were pretty common in the area.
 
-## Avoiding Air Pollution And Pressure Headaches 
+## Talk to a local realtor
+
+When we moved to the area, a local realtor generously gave us a tour of Ithaca. With so many hills, waterfalls, forest areas, and micro-climates, you can go a half mile and have a completely different experience. Although realtors in the area tend to specialize in home buying rather than rentals, they have deep local knowledge that can help you think about your decision.
+
+## Avoiding air pollution and pressure headaches 
 
 I strongly encourage anyone with substantial allergies/asthma to choose a location that will reduce your risks of health problems, especially. 
 
@@ -40,14 +44,14 @@ These pollutants regularly concentrate in Ithaca during the fall, winter, and sp
 During these inversions, which sometimes lasted for multiple days, our only way to be safe was to drive up a hill. But which hill is safest? During the winter, the most common prevailing winds are from West to East. We often continued to experience pretty bad symptoms when driving East to Cayuga Heights and the parts of Lansing closer to Ithaca. We eventually realized that West Hill was usually our safest place to go. 
 
 ![Wind direction chart showing that the most common wind direction is West](/images/2021-06-ithaca-allergies/ithaca-wind-direction.png)
-The percentage of hours in which the mean wind direction is from each of the four cardinal wind directions, excluding hours in which the mean wind speed is less than 1.0 mph. Source: [Weatherspark](https://weatherspark.com/y/22130/Average-Weather-in-Ithaca-New-York-United-States-Year-Round) <center><small><em></em></small></center>
+<p align="center"><small><em>The percentage of hours in which the mean wind direction is from each of the four cardinal wind directions, excluding hours in which the mean wind speed is less than 1.0 mph. Source: <a href="https://weatherspark.com/y/22130/Average-Weather-in-Ithaca-New-York-United-States-Year-Round">WeatherSpark</a></em></small></p>
 
 How does pollution contribute to migraines? While migraines have many causes for different people, one possible cause is [barometric pressure](https://www.webmd.com/migraines-headaches/headache-and-migraine-trigger-weather), especially when someone is congested from allergy symptoms. When sinuses get blocked, pressure differentials between the outside environment and the sinuses can cause debilitating migraines until the pressure changes. Since temperature inversions also increase air pressure, they can cause sinusitis *and* the conditions for crippling sinus migraines at the same time. Changes in barometric pressure can also cause migraines on their own. While the science of migraines and barometric pressure is [still inconclusive](https://link.springer.com/article/10.1007/s11916-019-0826-5), we found that the most reliable way to relieve our migraines was to move to a lower-pressure region, which we measured with a portable sensor.
 
-## Measuring Air Pollution
+## Measuring air pollution
 How often do these inversions happen? With the help of a Cornell professor, I added an air pollution sensor at our apartment to a network that also included sensors on West and East Hill. We used the [Air Quality Egg](https://airqualityegg.com/home), which I mounted to an outside wall. The sensor shares data by connecting to our apartment WIFI.
 
-![image of an air quality egg mounted to a brick wall](/images/2021-06-ithaca-allergies/ithaca-wind-direction.png)
+![image of an air quality egg mounted to a brick wall](/images/2021-06-ithaca-allergies/air-quality-sensor.jpg)
 
 Analyzing temperature and [Air Quality Index](https://en.wikipedia.org/wiki/Air_quality_index) data from Feb 12 - March 23rd 2021 (data and statistics here), I found that:
 
@@ -70,7 +74,7 @@ Location isn't the only thing to look for when choosing where to live. The [medi
 If you have allergies, we encourage you to visit apartments in person before deciding where to live. Many online listings very deliberately exclude photos of damp, moldy basements, which can pump allergens into living areas through the (only sometimes filtered) central air system. Baseboard heating systems can also accumulate dust and mold that only spreads into the air once the weather gets cold. We've also seen plenty of apartments (sometimes in fancy high-rises) with mildewed carpets and window-frames.
 
 ![image of annual seasonal humidity comfort levels](/images/2021-06-ithaca-allergies/ithaca-humidity-annual.png)
-<center><small><em>The percentage of time spent at various humidity comfort levels in Ithaca, categorized by dew point. Source: [Weatherspark](https://weatherspark.com/y/22130/Average-Weather-in-Ithaca-New-York-United-States-Year-Round)</em></small></center>
+<p align="center"><small><em>The percentage of time spent at various humidity comfort levels in Ithaca, categorized by dew point. Source: <a href="https://weatherspark.com/y/22130/Average-Weather-in-Ithaca-New-York-United-States-Year-Round">Weatherspark</a></em></small></p>
 
 You'll also notice that many homes in the area are heated by wood pellet or gas stoves. Since the gasses from combustion are hard to filter, people who react to combustion-based heat should take special care. Wood pellet stoves, even after cleaned, can still emit ash particles into the air, especially on humid days. We also learned that beautiful hardwood cabins can also off-gas volatile organic compounds that we're allergic to—and which only special air purifiers (with things like Zeolite) can handle. Old, unsealed brick walls can also cultivate mildew and emit dust as the brick degrades.
 
@@ -84,9 +88,9 @@ During our most recent apartment search, many wonderful people were supportive a
 ## Enjoy the Fingerlakes!
 Yesterday, I enjoyed a breakfast crepe sitting by the water at the Ithaca Farmers Market, my first visit since the pandemic started. It's a magical place in a special region. Despite the challenges of health and housing my family have experienced since moving here, we're still in love with the community and the landscape. If you, like us, have substantial allergy/asthma risks, I hope these tips will help you spend less time worrying about your health and more time enjoying what this region has to offer.
 
-![a breakfast crepe against a backdrop of flowers at the Ithaca Farmers Market](/images/2021-06-ithaca-allergies/famers-market-crepe.jpg)
+![a breakfast crepe against a backdrop of flowers at the Ithaca Farmers Market](/images/2021-06-ithaca-allergies/farmers-market-crepe.jpg)
 
-## Final Notes
+## Final notes
 Please don't take this post as medical advice without talking to your doctor. Allergy/asthma vary widely between people, and a strategy that works for us might not be good for you. 
 
 I am deeply grateful to Toby Ault for loaning me an air quality Egg and granting me access to the data from the wider sensor network. I am not a meteorologist, this analysis is my own, and any errors are mine alone. I'm sure Toby and others could do a much more nuanced analysis, I hope the data from our apartment will help that to happen!
