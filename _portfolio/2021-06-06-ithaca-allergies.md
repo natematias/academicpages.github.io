@@ -17,7 +17,7 @@ During the spring of 2021, my family and I spent three months precariously house
 
 Are you someone with respiratory allergies, migraines, or vertigo related to smoke, mold, car exhaust, and the gasses produced by things that burn? Are you moving to the Ithaca area? When I moved here in 2019, I thought that small towns and rural areas would be even safer for my health than the cities where I lived for the past fifteen years. I was wrong.
 
-Since moving here, I have learned that air quality health risks are an open secret. So many times when contacting a doctor, meteorologist, or housing expert, I would hear that our problems are common. I often wished that we had been informed when moving to the area rather than after we experienced severe disruptions to our lives. 
+With the right resources, it **is** possible to live healthy and flourishing lives in the area, even with allergy/asthma problems. Since moving here, I have learned that air quality health risks are an open secret. So many times when contacting a doctor, meteorologist, or housing expert, I would hear that our problems are common. I often wished that we had been informed when moving to the area rather than after we experienced severe disruptions to our lives. 
 
 The Ithaca region is one of the most charming and beautiful places I've lived. I'm excited to explore now that our health is better and COVID restrictions are lifting. I hope this post helps others moving to the area ask better questions than we did and make more informed decisions about health and air quality so you too can enjoy life in this special region.
 
