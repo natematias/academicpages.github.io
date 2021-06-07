@@ -33,7 +33,7 @@ When we moved to the area, a local realtor generously gave us a tour of Ithaca. 
 
 ## Avoiding air pollution and pressure headaches 
 
-I strongly encourage anyone with substantial allergies/asthma to choose a location that will reduce your risks of health problems, especially. 
+I strongly encourage anyone with substantial allergies/asthma to choose a location that will reduce your risks of health problems in the area. 
 
 To successfully avoid air pollution, you need to know what you react to. Are you worried about pollen, ozone, and airborne agricultural allergens? Like me, do you also have a severe reaction to burning fuel (wood, gas, etc)?
 
