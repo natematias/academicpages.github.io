@@ -51,7 +51,7 @@ How does pollution contribute to migraines? While migraines have many causes for
 Barometric pressure is hard to generalize, with so many conflicting research results. For example, a Japanese diary study with 28 migraine patients found that among people who seek medical help for migraines, [headaches were associated with a change of 5 hectopascals](https://www.jstage.jst.go.jp/article/internalmedicine/50/18/50_18_1923/_pdf). For comparison, here's the chart of barometric pressure driving from West Hill into Ithaca over to East Hill: the pressure changed by nearly 40 hectopascals.
 
 ![changes in barometric pressure traveling from West Hill to East Hill, Ithaca. The pressure went up downtown and reduced again upon climbing East Hill](/images/2021-06-ithaca-allergies/2021-02-17-barometric_pressure_difference.png)
-<p align="center"><small><em>Changes in barometric pressure traveling from West Hill (near Mecklenberg) to East Hill on Saturday, February 27. The pressure went up by nearly 40 hPA going downtown and reduced again upon climbing East Hill</em></small></p>
+<p align="center"><small><em>Changes in barometric pressure traveling from West Hill (near Mecklenberg) to East Hill on Saturday, Feb 27, as measured by an AtmoTube Pro. The pressure went up by nearly 40 hPA going downtown and reduced again upon climbing East Hill</em></small></p>
 
 ## Measuring air pollution
 How often do these inversions happen? With the help of a Cornell professor, I added an air pollution sensor at our apartment to a network that also included sensors on West and East Hill. We used the [Air Quality Egg](https://airqualityegg.com/home), which I mounted to an outside wall. The sensor shares data by connecting to our apartment WIFI.
