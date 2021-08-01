@@ -10,6 +10,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 {% include base_path %}
 
 <h2>Peer Reviewed Journal Articles &amp; Conference Publications</h2>
+* Matias, J., Munger, K., Aubin Le Quere, M.A., Ebersole, C. (2021) The Upworthy Research Archive, a time series of experiments in U.S. media. Nature Scientific Data (forthcoming)
+* Kaiser, B., Wei, J., Lucherini, E,. Lee, K., Matias, J.N., Mayer, J. (2020) [Adapting   Security Warnings to Counter Misinformation](https://www.usenix.org/conference/           usenixsecurity21/presentation/kaiser). 30th USENIX Security Symposium.
 * Zuckerman, E., Matias, J. N., Bhargava, R., Bermejo, F., & Ko, A. (2019). [Whose Death  Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in       Police Confrontations, 2013–2016](https://ijoc.org/index.php/ijoc/article/view/8782).     International Journal of Communication, 13, 27.
 * Matias, J. N. (2019). [Preventing harassment and increasing group participation through social norms in 2,190 online science discussions](/media/JNM-Preventing-Harassment-PNAS-2019.pdf). Proceedings of the National Academy of Sciences, 116(20), 9785-9789.
 * Matias, J. N. (2019). [The civic labor of volunteer moderators online](https://journals.sagepub.com/doi/full/10.1177/2056305119836778). Social Media+ Society, 5(2), 2056305119836778.
