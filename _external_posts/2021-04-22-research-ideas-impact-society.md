@@ -1,5 +1,5 @@
 ---
-date: '2021-08-07'
+date: '2021-04-22'
 filename: 2021-04-22-research-ideas-impact-society.md
 link: https://www.insidehighered.com/advice/2021/04/22/identifying-research-topics-will-not-only-advance-science-also-improve-broader
 publisher: Inside Higher Ed
