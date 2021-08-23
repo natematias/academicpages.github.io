@@ -6,18 +6,21 @@ main:
   - title: "Speaking"
     url: /speaking/    
 
-  - title: "Teaching"
+  - title: "Classes"
     url: /teaching/    
     
+  - title: "Public Writing"
+    url: /external-posts/
+    
+  - title: "Students"
+    url: /recruiting/
+        
   - title: "Projects"
     url: /portfolio/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-  - title: "Public Writing"
-    url: /external-posts/
-    
 #  - title: "CV"
 #    url: /cv/
     
