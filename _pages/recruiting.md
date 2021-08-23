@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Recruiting"
+title: "Information for Prospective PhD Students"
 padding: 1
 permalink: /recruiting/
 author_profile: true
@@ -9,13 +9,11 @@ author_profile: true
 {% include base_path %}
 
 <style type="text/css">
-.page__inner-wrap img{float:right; width:30%; margin:5px;}
+.archive img{float:right; width:30%; margin:5px; margin-left:10px;}
 h3{clear: both;}
 </style>
 
-# Information for Prospective Students
-
-I'm recruiting PhD students to join the [Citizens and Technology Lab](https://citizensandtech.org) (CAT Lab)! This page explains more about what we do, what I'm looking for, and what you need to know to apply.
+I'm currently recruiting PhD students to join the [Citizens and Technology Lab](https://citizensandtech.org) (CAT Lab)! This page explains more about what we do, what I'm looking for, and what you need to know to apply.
 
 I am recruiting students for the Ithaca-based PhD programs in **Communication** and **Information Science**:
 
@@ -35,6 +33,8 @@ At CAT Lab, we are advancing a world where digital power is guided by evidence a
 * makes a **practical difference** in people's lives
 * advances **scientific knowledge** that is useful outside individual contexts
 * contributes to **policy**
+
+<div align="center"><a href="https://www.citizensandtech.org"><img style="float:none; with:50%" src="https://natematias.com/images/CAT-Logo-Horizontal-social-media-preview-color.png"/></a></div>
 
 We are distinctive for [developing our research agendas directly with affected communities](https://www.insidehighered.com/advice/2021/04/22/identifying-research-topics-will-not-only-advance-science-also-improve-broader). If you are excited about making knowledge-creation in computing and the social sciences [more inclusive, diverse, and democratic](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf), we are the lab for you.
 
@@ -72,7 +72,7 @@ We are currently working on projects involving:
 * scaling citizen science audits of digital power
 * governing encrypted chat systems in democratic ways
 
-## How will I be funded?
+## How will you be funded?
 
 Because CAT Lab is an industry-independent research lab, we have fewer funding sources than other labs. Despite that, the lab has led or participated in nearly $2m in grants and donations in my first two years. While most of these funds support CAT Lab's [professional staff, community organizers, and software systems](https://citizensandtech.org/about-cat-lab/), we can also fund some semesters as research assistants on pre-existing projects. 
 
@@ -98,7 +98,7 @@ If you want to apply for graduate fellowships, I will support those applications
 
 ### Jonathan Zong
 ![image Jonathan Zong](https://citizensandtech.org/wp-content/uploads/2021/02/899466367687708711-190130-zong-jonathan-0012.full_-200x200.jpg)
-[Jonathan](https://jonathanzong.com/) is a visual artist and computer scientist who uses design as a method for understanding how interaction mediates the relationship between abstract data models and the social world. I advised Jonathan's undergraduate thesis at Princeton, he was a visiting graduate fellow at CAT Lab in 2019. We have developed numerous projects together focused on software design and research ethics. 
+[Jonathan](https://jonathanzong.com/) is a visual artist and computer scientist who uses design as a method for understanding how interaction mediates the relationship between abstract data models and the social world. I advised Jonathan's undergraduate thesis at Princeton, he was a visiting graduate fellow at CAT Lab in 2019. He is now a PhD student at MIT and a graduate research fellow at CAT Lab. We have developed numerous projects together focused on software design and research ethics. 
 
 * 2020 · [From Individual Consent to Collective Refusal](https://jonathanzong.com/assets/papers/xrds-refusal-2020.pdf) · Jonathan Zong. ACM XRDS (Crossroads).
 * 2018 · [Automated Debriefing: Interface for Large-Scale Research Ethics](https://jonathanzong.com/assets/papers/automated-debriefing-cscw-2018.pdf) · Jonathan Zong, J. Nathan Matias. Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing. (Best Demo Award)
@@ -110,23 +110,28 @@ If you want to apply for graduate fellowships, I will support those applications
 ![image Maurice Jakesch](/images/students/jakesch3.jpg) Maurice is an Information Science PhD candidate at Cornell Tech, where he studies how people decide what’s credible or authentic in a networked society. I am on Maurice's PhD committee. 
 
 ### Prateek Rai
-![image Prateek Rai](/images/students/prateek-rai.jpg) Prateek completed his Master's degree in Information Science at Cornell in 2020. That year, he worked with CAT Lab on a project to evaluate web browser privacy protections. After Cornell, Prateek joined the TikTok trust and safety team as a data scientist.
+![image Prateek Rai](/images/students/prateek-rai.jpg) Prateek completed his Master's degree in Information Science at Cornell in 2020. That year, he worked with CAT Lab on a project to evaluate web browser privacy protections. After Cornell, Prateek joined a platform trust and safety team as a data scientist.
 
 ### Audrey Chebet
 ![image Audrey Chebet](https://citizensandtech.org/wp-content/uploads/2021/02/Pjhj3at-200x200.jpg) Audrey completed her undergraduate degree in the Princeton University Psychology Department with minors in Neuroscience and African Studies. I advised Audrey's undergraduate thesis focused on making online spaces safer for women. 
 
 ### Merry Ember Mou
 ![image Merry Mou](https://citizensandtech.org/wp-content/uploads/2021/02/AwTZdpf-200x200.jpg)
-Merry (Software Engineer, 2016-17) worked with me on the very first CAT Lab software systems as a computer science masters student in the MIT Internet Policy Research Initiative. Merry now works as a software engineer in information security.
+Merry worked with me on the very first CAT Lab software systems as a computer science masters student in the MIT Internet Policy Research Initiative. Merry now works as a software engineer in information security.
 
 * Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-led experiments in platform governance](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf). In Proceedings of the 2018 CHI conference on human factors in computing systems (pp. 1-13).
 * Matias, J., Mou, M., Penney, J., Klein, M., & Wright, L. (1998). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/).
 
+### Alyssa Smith
+![image Alyssa Smith](/images/students/eliza_flowers.jpg)
+[Alyssa](https://lentil-soup.github.io/) is a PhD student at Northeastern University's Network Science Institute, interested in argumentation and community-building online. I advised Alyssa as an undergraduate at MIT and supported projects on polarization in online media, privacy, and mental health online.
+
+* Smith, Alyssa (2015) [Bridges or Hate-Links? THe Meaning of Common Links in Media Conflict](https://mediacloud.org/news/2017/7/19/bridges-or-hate-links-the-meaning-of-common-links-in-media-conflict). MediaCloud
+
 ### Sophie Diehl
-![image Sophie Diehl](/images/students/diehl_400x400.jpg) Sophie is an artist and engineer. As an undergraduate at MIT, Sophie worked with me on a series of research projects that visualized gender representation on Wikipedia and organized people to broaden gender inclusion online.
+![image Sophie Diehl](/images/students/diehl_400x400.jpeg) Sophie is an artist and engineer. As an undergraduate at MIT, Sophie worked with me on a series of research projects that visualized gender representation on Wikipedia and organized people to broaden gender inclusion online.
 
 * Matias, J. N., Diehl, S., & Zuckerman, E. (2015, April). [Passing on: Reader-sourcing gender diversity in Wikipedia](https://dl.acm.org/doi/abs/10.1145/2702613.2732907?casa_token=xNCIIalp1DgAAAAA%3AaceAV3bZu7Wl_oON5wU6C7Lp4yQsqlJ7eh8Sh0BSGe9s26SX1WdsyRxvW_zWu2TyLpbPFXQ-nh8Y0A). In Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems (pp. 1073-1078).
-
 
 # Diversity and Inclusion
 As a white-passing Guatemalan-American whose family moved to the U.S. during the civil war and genocide, I sit at the confluence of key themes in diversity and inclusion, especially ones related to power and access. Throughout my career, I have worked to support students and institutions to make the most of the world-changing potential of diverse, inclusive participation.
