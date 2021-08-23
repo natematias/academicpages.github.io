@@ -10,13 +10,13 @@ redirect_from:
 
 I study digital governance and behavior change in groups and networks shaped by algorithms. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
 
-<p>I am an assistant professor at the Cornell University Department of Communication, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>).</p>
+<p>I am a Guatemalan-American assistant professor at the Cornell University Department of Communication, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>).</p>
 
 <a href="https://citizensandtech.org"><img src="images/CAT-Logo-Horizontal-social-media-preview-color.png" style="height:90px;"/></a> 
 <a href="https://upworthy.natematias.com"><img src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 
 ### Recent Articles and Posts
-* Matias, J., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) **[The Upworthy         Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.  1038/s41597-021-00934-7).** Nature Scientific Data.
+* Matias, J., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) **[The Upworthy         Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.  1038/s41597-021-00934-7).** Scientific Data (Nature).
 * Kaiser, B., Wei, J., Lucherini, E,. Lee, K., Matias, J.N., Mayer, J. (2020) [Adapting Security Warnings to Counter Misinformation](https://www.usenix.org/conference/usenixsecurity21/presentation/kaiser). 30th USENIX Security Symposium.
 * Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). [Do Automated Legal Threats Reduce Freedom of Expression Online? 🤖🤭 Preliminary Results from a Natural Experiment.](https://citizensandtech.org/2020/09/chilling-effect-automated-law-enforcemen/) ([preprint](https://osf.io/nc7e2/)).
 * Matias, J. N., Al-Kashif, R., Kamin, J., Klein, M., Pennington, E. (2020) 💗[Volunteers Thanked Thousands of Wikipedia Editors to Learn the Effects of Receiving Thanks](https://citizensandtech.org/2020/06/effects-of-saying-thanks-on-wikipedia/). Citizens and Technology Lab ([preprint](https://osf.io/dmwef/))
