@@ -12,6 +12,8 @@ I study digital governance and behavior change in groups and networks shaped by 
 
 <p>I am a Guatemalan-American assistant professor at the Cornell University Department of Communication, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>).</p>
 
+<p style="background:#eee; border:1px solid #ccc; border-radius:10px; padding:5px;"><strong>I am recruiting PhD students (apply 2021, start 2022)</strong> in Communication and Information Science. See my page for <a href="/recruiting">prospective PhD students</a>. </p>
+
 <a href="https://citizensandtech.org"><img src="images/CAT-Logo-Horizontal-social-media-preview-color.png" style="height:90px;"/></a> 
 <a href="https://upworthy.natematias.com"><img src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 
