@@ -17,7 +17,7 @@ I'm currently recruiting PhD students to join the [Citizens and Technology Lab](
 
 I am recruiting students for the Ithaca-based PhD programs in **Communication** and **Information Science**:
 
-* [Communication PhD Admissions information](https://cals.cornell.edu/communication/graduate/admissions-financial-support) (Deadline Dec 1st). Apply to this program if you are excited to advance theory and practice in the social sciences and social policy
+* [Communication PhD Admissions information](https://cals.cornell.edu/communication/graduate/admissions-financial-support) (Deadline Dec 1st). Apply to this program if you are excited to advance theory and practice in the social sciences and social policy (tending toward social psychology)
 * [Information Science PhD Admissions](https://infosci.cornell.edu/phd/admissions) (Deadline Dec 1st). Apply to this program if you are excited to advance theory and practice related to justice/ethics in technology accountability and the design of data science systems
 
 When applying, please name me in your cover letter so I see your application.
@@ -55,9 +55,9 @@ Individual CAT Lab members have a history of organizing advocacy related to the 
 I am equally interested in applicants:
  
 * with a track record in social sciences/computing
-* who want to transition into those fields and can demonstrate your motivations for making that transition
+* who want to transition into those fields and can demonstrate your motivations/potential for making that transition
 
-For more guidance on Communication and Information Science, please see guidance on [Communication PhD Admissions information](https://cals.cornell.edu/communication/graduate/admissions-financial-support) and [Information Science PhD Admissions](https://infosci.cornell.edu/phd/admissions) for more details.
+For more guidance on Communication and Information Science, please see guidance on [Communication PhD admissions](https://cals.cornell.edu/communication/graduate/admissions-financial-support) and [Information Science PhD admissions](https://infosci.cornell.edu/phd/admissions) for more details.
 
 ## What will you work on?
 One purpose of the PhD is to support your personal growth toward your own ideas and initiatives that you imagine and put into the world. 
@@ -91,7 +91,7 @@ Graduate teaching opportunities will also provide a regular source of your fundi
 
 Cornell also offers several [fellowships in support of diversity](https://gradschool.cornell.edu/diversity-inclusion/funding-and-resources/graduate-school-fellowships-in-support-of-diversity/). If you qualify, please include the required materials in your application, as described by the Communication or Information Science admissions guides.
 
-If you want to apply for graduate fellowships, I will support those applications, including summer internships and funding from technology firms. To avoid penalizing students for exploring valuable industry opportunities, we have a conflict of interest policy. Corporate-funded projects will be done independently from CAT Lab's name/staff/resources. While funded by a company, you will also need to step aside from any CAT Lab project that involve that company.
+If you want to apply for graduate fellowships, I will support those applications, including summer internships and funding from technology firms. To avoid penalizing students for exploring valuable industry opportunities, we have a conflict of interest policy. Corporate-funded projects will be done independently from CAT Lab's name/staff/resources. While funded by a company, you will also need to step aside from any CAT Lab project that involves that company.
 
 # Current and Past Students
 
@@ -131,13 +131,16 @@ If you want to apply for graduate fellowships, I will support those applications
 Merry worked with me on the very first CAT Lab software systems as a computer science masters student in the MIT Internet Policy Research Initiative. Merry now works as a software engineer in information security.
 
 * Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-led experiments in platform governance](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf). In Proceedings of the 2018 CHI conference on human factors in computing systems (pp. 1-13).
-* Matias, J., Mou, M., Penney, J., Klein, M., & Wright, L. (1998). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/).
+* Matias, J., Mou, M., Penney, J., Klein, M., & Wright, L. (2021). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/).
 
 ### Alyssa Smith
 ![image Alyssa Smith](/images/students/eliza_flowers.jpg)
 [Alyssa](https://lentil-soup.github.io/) is a PhD student at Northeastern University's Network Science Institute, interested in argumentation and community-building online. I advised Alyssa as an undergraduate at MIT and supported projects on polarization in online media, privacy, and mental health online.
 
 * Smith, Alyssa (2015) [Bridges or Hate-Links? THe Meaning of Common Links in Media Conflict](https://mediacloud.org/news/2017/7/19/bridges-or-hate-links-the-meaning-of-common-links-in-media-conflict). MediaCloud
+
+### Joanna Kao
+![image Joanna S. Kao](/images/students/joannaskao.jpg) Joanna is a data journalist. When Joanna was an undergraduate at MIT, I advised her project to create software for real-time curation of online video for journalistic storytelling. After graduating, Joanna taught dataviz and accessibility at the New School. She is now a journalist-developer at the Financial Times.
 
 ### Sophie Diehl
 ![image Sophie Diehl](/images/students/diehl_400x400.jpeg) Sophie is an artist and engineer. As an undergraduate at MIT, Sophie worked with me on a series of research projects that visualized gender representation on Wikipedia and organized people to broaden gender inclusion online.
@@ -147,15 +150,15 @@ Merry worked with me on the very first CAT Lab software systems as a computer sc
 # Diversity and Inclusion
 As a white-passing Guatemalan-American whose family moved to the U.S. during the civil war and genocide, I sit at the confluence of key themes in diversity and inclusion, especially ones related to power and access. Throughout my career, I have worked to support students and institutions to make the most of the world-changing potential of diverse, inclusive participation.
 
-At CAT Lab, we very deliberately structure our outreach/collaborations to be globally and socially diverse. With the help of our collaborators at [Global Voices](https://globalvoices.org/about/), we have also designed our events organizational processes to support collaborations with people from many countries speaking many different languages.
+At CAT Lab, we very deliberately structure our outreach/collaborations to be globally and socially diverse. With the help of our collaborators at [Global Voices](https://globalvoices.org/about/), we have also designed our work to include people from many countries speaking many different languages.
 
 In recent years, I have:
 
-  * Contributed to the team in the Communication department that re-designed the graduate admissions process to be more inclusive
-  * Re-worked the syllabus of our Communication & Technology course to include more readings from a wider range of identities, including perspectives from the Global South
-  * Led and supported efforts to change how charitable foundations think and act on funding diversity
+  * Helped re-designthe graduate admissions process to be more inclusive
   * Led trainings for under-represented minority graduate students on how to have a public voice and manage the risks of harassment
-  * Volunteered with initiatives that broaden the pipeline for women and under-represented minorities in higher education, including AfriCHI, Innovate Salone, the Latin American HCI conference, and other efforts
+  * Led and supported efforts to change how charitable foundations think and act on funding diversity
+  * Re-worked course syllabi to include more readings from a wider range of identities, including perspectives from the Global South
+  * Volunteered with initiatives that broaden the pipeline for women and under-represented minorities in higher education
 
 I am especially energized when contributing to projects that support excellence among people who aren't commonly included in academia–people who I am excited to see grow personally as their perspectives and creativity transform their institutions and their fields.
 
