@@ -13,7 +13,11 @@ author_profile: true
 h3{clear: both;}
 </style>
 
-I'm currently recruiting PhD students to join the [Citizens and Technology Lab](https://citizensandtech.org) (CAT Lab) (application 2021, start 2022)! This page explains more about what we do, what I'm looking for, and what you need to know to apply.
+<strong><u>The application deadline for 2021-2022 was December 1 2021. Please check this page in August 2022 for updates.</u></strong>
+
+<hr/>
+
+Are you a PhD student interested to join the [Citizens and Technology Lab](https://citizensandtech.org) (CAT Lab)? This page explains more about what we do, what I'm looking for, and what you need to know to apply.
 
 I am recruiting students for the Ithaca-based PhD programs in **Communication** and **Information Science**:
 

@@ -10,6 +10,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 {% include base_path %}
 
 <h2>Peer Reviewed Journal Articles &amp; Conference Publications</h2>
+* Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-         catastrophes) Just Tech. Social Science Research Council. March 1, 2022
+* Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/              20563051221077021). Social Media + Society.
 * Matias, J. N., Hounsel, A., Feamster, N., (2022) [Software-Supported Audits of Decision-Making Systems: Testing Google and Facebook’s Political Advertising policies](https://arxiv.org/pdf/2103.00064.pdf). The 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing.
   * Blog post: [Crowdsourced Audits of Algorithmic Decision-Makers](https://citizensandtech.org/2021/11/crowdsourced-audit-studies/)
 * Matias, J., Munger, K., Aubin Le Quere, M.A., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of experiments in U.S. media](https://www.nature.com/articles/s41597-021-00934-7). Nature Scientific Data
