@@ -18,7 +18,7 @@ I study digital governance and behavior change in groups and networks shaped by 
 <a href="https://upworthy.natematias.com"><img src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 
 ### Recent Articles and Posts
-* Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-catastrophes) Just Tech. Social Science Research Council. March 1, 2022
+* Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-catastrophes) Just Tech. Social Science Research Council.
 * Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.
   * Project Site: [Community-Centered Ethics Systems](https://citizensandtech.org/research/research-ethics-systems/)
   * Blog post: [Designing &amp; Evaluating Research Ethics Systems](https://citizensandtech.org/2022/02/designing-and-evaluating-research-ethics-systems/)

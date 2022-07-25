@@ -1,3 +1,7 @@
+numpy
+jupyterlab
 feedparser
 pyyaml
 python-frontmatter
+statsmodels
+
