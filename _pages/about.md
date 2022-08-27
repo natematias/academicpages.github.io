@@ -10,7 +10,7 @@ redirect_from:
 
 I study digital governance and behavior change in groups and networks shaped by algorithms. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
 
-<p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>).</p>
+<p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
 
 <p>I am spending the 2022-2023 academic year as a <a href="https://casbs.stanford.edu/news/casbs-announces-2022-23-fellows">fellow at the Center for Advanced Study in the Behavioral Sciences</a> at Stanford, bookended by <a href="https://knightcolumbia.org/bios/view/-37">a role as visiting associate research scholar</a> at the Knight First Amendment Institute at Columbia.</p>
 
