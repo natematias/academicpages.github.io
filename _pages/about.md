@@ -12,7 +12,8 @@ I study digital governance and behavior change in groups and networks shaped by 
 
 <p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
 
-<p>I am spending the 2022-2023 academic year as a <a href="https://casbs.stanford.edu/news/casbs-announces-2022-23-fellows">fellow at the Center for Advanced Study in the Behavioral Sciences</a> at Stanford, bookended by <a href="https://knightcolumbia.org/bios/view/-37">a role as visiting associate research scholar</a> at the Knight First Amendment Institute at Columbia.</p>
+I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communication and Siegel Research Fellow at the [Center for Advanced Study in the Behavioral    Sciences](https://casbs.stanford.edu/about/history), Stanford University. In the summer   of 2022-23, he is also an [visiting associate research scholar](https://knightcolumbia.   org/bios/view/-37) at the Knight First Amendment Institute at Columbia University.
+
 
 <!--<p style="background:#eee; border:1px solid #ccc; border-radius:10px; padding:5px;"><strong>I am recruiting PhD students (apply 2021, start 2022)</strong> in Communication and Information Science. See my page for <a href="/recruiting">prospective PhD students</a>. </p>-->
 

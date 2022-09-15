@@ -6,7 +6,9 @@ modified: 2020-01-07
 
 {% include base_path %}
 
-Dr. J. [Nathan Matias](https://natematias.com) (<a href="https://twitter.com/natematias">@natematias</a>) organizes citizen behavioral science for a safer, fairer, more understanding internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication and field member in Information Science.
+Dr. [J. Nathan Matias](https://natematias.com) (<a href="https://twitter.com/natematias">@natematias</a>) organizes citizen behavioral science for a safer, fairer, more understanding internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication and field member in Information Science.
+
+Nathan is a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communication and Siegel Research Fellow at the [Center for Advanced Study in the Behavioral Sciences](https://casbs.stanford.edu/about/history), Stanford University. In the summer of 2022-23, he is also an [visiting associate research scholar](https://knightcolumbia.org/bios/view/-37) at the Knight First Amendment Institute at Columbia University.
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/F9u08n4aSw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>-->
 
