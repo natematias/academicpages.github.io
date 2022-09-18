@@ -13,8 +13,6 @@ author_profile: true
 h3{clear: both;}
 </style>
 
-<strong><u>The application deadline for 2021-2022 was December 1 2021. Please check this page in August 2022 for updates.</u></strong>
-
 <hr/>
 
 Are you a PhD student interested to join the [Citizens and Technology Lab](https://citizensandtech.org) (CAT Lab)? This page explains more about what we do, what I'm looking for, and what you need to know to apply.
@@ -36,7 +34,7 @@ For guidance on where else to apply, see my post: "[So you want to study technol
 At CAT Lab, we are advancing a world where digital power is guided by evidence and accountable to the public. We do this by working directly with communities affected by digital power on research that:
 
 * makes a **practical difference** in people's lives
-* advances **scientific knowledge** that is useful outside individual contexts
+* advances **scientific knowledge** 
 * contributes to **policy**
 
 
@@ -44,9 +42,9 @@ We are distinctive for [developing our research agendas directly with affected c
 
 CAT Lab typically takes on three **kinds of projects**:
 
-* Research studies / audits that contribute to the social sciences ([example](https://www.pnas.org/content/118/16/e2013833118.short))
+* Research studies / audits that contribute to the social sciences, especially focused on human-algorithm behavior the psychology of social norms ([example](https://www.pnas.org/content/118/16/e2013833118.short))
 * Computer science papers on novel datasets or systems/algorithms we develop to support those studies ([example 1](https://jonathanzong.com/assets/papers/automated-debriefing-cscw-2018.pdf), [example 2](https://www.nature.com/articles/s41597-021-00934-7))
-* Big-picture articles that summarize or argue an important point to academics, civil society, and policymakers ([example](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9))
+* Big-picture articles that summarize or argue an important point to academics, civil society, and policymakers ([example](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/)
 
 CAT Lab's funding model is [independent from the technology industry](https://citizensandtech.org/2020/01/industry-independent-research/), which frees us to do public-interest work whether or not companies find our results comfortable.
 
@@ -58,7 +56,7 @@ Individual CAT Lab members have a history of organizing advocacy related to the 
 ## What kind of applicants am I looking for?
 I am equally interested in applicants:
  
-* with a track record in social sciences/computing
+* with a track record in social sciences (esp psychology)/computing
 * who want to transition into those fields and can demonstrate your motivations/potential for making that transition
 
 For more guidance on Communication and Information Science, please see guidance on [Communication PhD admissions](https://cals.cornell.edu/communication/graduate/admissions-financial-support) and [Information Science PhD admissions](https://infosci.cornell.edu/phd/admissions) for more details.
