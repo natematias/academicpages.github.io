@@ -56,8 +56,11 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {% if page.image %}
-        <img src="{{ page.image}}" class="img-fluid mx-auto d-block"/>
-        <br/><br/>
+          {% if page.hideimage %}
+          {% else %}
+            <img src="{{ page.image}}" class="img-fluid mx-auto d-block"/>
+            <br/><br/>
+          {% endif %}
         {% endif %}
 
         {{ content }}

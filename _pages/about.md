@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<!--<a rel="me" href="https://octodon.social/@natematias">Mastodon</a>-->
+
 I study digital governance and behavior change in groups and networks shaped by algorithms. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
 
 <p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
@@ -58,5 +60,4 @@ Reach out if I can help; over the last few years I have supported journalists on
 
 <!--I have spoken at TED, Aspen, Wikimania, the Mozilla Festival, the Veritas Forum, and many universities around the world. I have given invited talks at tech firms including Twitter, Microsoft, Facebook, Reddit, Disqus, and others. I and my work have been covered by the New York Times, the Wall Street Journal, the Guardian, NPR's All Things Considered, the Canadian Broadcasting Company, FastCompany, the Boston Globe, and more.-->
 
- 
 For questions related to the Citizens and Technology Lab and my academic work at Cornell, please write me at nathan.matias@cornell.edu.
