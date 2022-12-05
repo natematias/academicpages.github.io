@@ -53,11 +53,12 @@
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
-      {% if author.twitter %}
+<!--      {% if author.twitter %}
         <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> @{{ author.twitter }}</a></li>
       {% endif %}
+-->
       {% if author.mastodon %}
-        <li><a href="{{author.mastodonurl}}"><img src="/images/mastodon.svg" style="width:15px;"/> {{author.mastodon}}</a></li>
+        <li><a rel="me" href="{{author.mastodonurl}}"><img src="/images/mastodon.svg" style="width:15px;"/> {{author.mastodon}}</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>

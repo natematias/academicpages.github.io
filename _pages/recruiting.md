@@ -3,6 +3,7 @@ layout: archive
 title: "Information for Prospective PhD Students"
 padding: 1
 permalink: /recruiting/
+image: "https://natematias.com/images/CAT-Logo-Horizontal-social-media-preview-color.png"
 author_profile: true
 ---
 
@@ -85,22 +86,22 @@ As a PhD student, you can expect to be fully funded during the standard PhD leng
 * [Funding in Communication](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
 * [Funding in Information Science](https://infosci.cornell.edu/phd/admissions)
 
-Because CAT Lab is an industry-independent research lab, we have fewer funding sources than other labs. Despite that, the lab has led or participated in over $1.5m in grants and donations in my first two years at Cornell. While most of these funds support CAT Lab's [professional staff, community organizers, and software systems](https://citizensandtech.org/about-cat-lab/), we can also fund some semesters as research assistants on pre-existing projects. 
+Because CAT Lab is an industry-independent research lab, we have fewer funding sources than other labs. Despite that, the lab has led or participated in over $2m in grants and donations in my first three years at Cornell. While most of these funds support CAT Lab's [professional staff, community organizers, and software systems](https://citizensandtech.org/about-cat-lab/), we can also fund semesters as research assistants on pre-existing projects. 
 
-When I was a PhD student, the art of fundraising was one of the most valuable skills I learned from my advisor [Ethan Zuckerman](https://ethanzuckerman.com/). At CAT Lab, you will get mentorship in the strategy and craft of raising funds for academic, nonprofit, and other ventures.
+When I was a PhD student, the art of fundraising was one of the most valuable skills I learned from my advisor [Ethan Zuckerman](https://ethanzuckerman.com/). At CAT Lab, you will get mentorship in the strategy and craft of raising funds for academic, nonprofit, and for-profit ventures.
 
 Graduate teaching opportunities will also provide a regular source of your funding. These essential experiences will grow your capacities as a public communicator, institution builder, and designer of equitable systems. Teaching will also prepare you for a possible career in academia. I am eager to advise students who have an appetite for investing in others through teaching.
 
 Cornell also offers several [fellowships in support of diversity](https://gradschool.cornell.edu/diversity-inclusion/funding-and-resources/graduate-school-fellowships-in-support-of-diversity/). If you qualify, please include the required materials in your application, as described by the Communication or Information Science admissions guides.
 
-If you want to apply for graduate fellowships, I will support those applications, including summer internships and funding from technology firms. To avoid penalizing students for exploring valuable industry opportunities, we have a conflict of interest policy. Corporate-funded projects will be done independently from CAT Lab's name/staff/resources. While funded by a company, you will also need to step aside from any CAT Lab project that involves that company.
+If you want to apply for graduate fellowships, I will support those applications, including summer internships and funding from technology firms. To avoid penalizing students for exploring valuable industry opportunities, we have a conflict of interest policy. Corporate-funded projects will be done independently from CAT Lab's name/staff/resources. While funded by a company, you will also need to step aside from any CAT Lab project that involves that company, which is pretty standard corporate policy as well.
 
 # Current and Past Students
 
 ### Lucas Wright
 ![image Lucas Wright](https://citizensandtech.org/wp-content/uploads/2021/04/Lucas-Wright-200x200.jpg) Lucas is a graduate student in the Department of Communication at Cornell University. His research focuses on how online platforms regulate the behavior of users, especially through automated, algorithmic interventions. I am Lucas's PhD advisor. We have been working together on research related to online harassment, content moderation, and the governance of algorithms
 
-* Matias, J.N. Wright, L. Impact Assessment of Human-Algorithm Feedback Loops. (Forthcoming)
+* Matias, J.N. Wright, L. [Impact Assessment of Human-Algorithm Feedback Loops](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/). Social Science Research Council.
 * Matias, J., Mou, M., Penney, J., Klein, M., & Wright, L. (2021). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/).
 
 ### Marianne Aubin le Quere

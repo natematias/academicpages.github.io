@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<!--<a rel="me" href="https://octodon.social/@natematias">Mastodon</a>-->
-
 I study digital governance and behavior change in groups and networks shaped by algorithms. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
 
 <p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
 
 I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communication and Siegel Research Fellow at the [Center for Advanced Study in the Behavioral    Sciences](https://casbs.stanford.edu/about/history), Stanford University. In the summer   of 2022-23, I am also an [visiting associate research scholar](https://knightcolumbia.   org/bios/view/-37) at the Knight First Amendment Institute at Columbia University.
 
+<hr/>
+
+**I have sunsetted my Twitter account.** My last tweet was made on Nov 17, 2022. No more recent tweets are authentic. To keep up with me and my work, please [see the /updates/ page, which contains links and a sign-up](/updates/).
 
 <!--<p style="background:#eee; border:1px solid #ccc; border-radius:10px; padding:5px;"><strong>I am recruiting PhD students (apply 2021, start 2022)</strong> in Communication and Information Science. See my page for <a href="/recruiting">prospective PhD students</a>. </p>-->
 
@@ -23,7 +24,8 @@ I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communi
 <a href="https://upworthy.natematias.com"><img src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 
 ### Recent Articles and Posts
-* Matias, J.N., Pennington, E. Chan, Z.T. (2022). [Testing Concerns about Technology’s    Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.      3533227).ACM Conference on Fairness, Accountability, and Transparency
+* Matias, J.N. (2022) [How to avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight). Knight First Amendment Institute, Columbia University
+* Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s    Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.      3533227).ACM Conference on Fairness, Accountability, and Transparency
   * Blog post: "[when researchers study average treatment effects with between-subjects tests, their findings often exclude consideration of minority and marginalized groups](https://citizensandtech.org/research/n-of-one-trials/)"
 * Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-catastrophes) Just Tech. Social Science Research Council.
 * Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.

@@ -21,7 +21,7 @@ Universities say they're increasing faculty diversity. Is that translating to ch
 
 This landing page provides full links and details for our Comment paper in Nature Human Behavior, our data analysis, and what you can do to work toward demographic parity by 2025.
 
-* Matias, J.N., Lewis, N. A., Hope, E. (2022) **[U.S. Universities Are Not Succeeding in Diversifying Faculty]()**. Nature Human Behavior.
+* Matias, J.N., Lewis, N. A., Hope, E. (2022) **[U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4)**. Nature Human Behavior. DOI:10.1038/s41562-022-01495-4
 * [Code and data](https://github.com/natematias/US-Faculty-Diversity-Projections)
 * [Repository on the Open Science Framework, including early preprint](https://osf.io/ar8pt/)
 
