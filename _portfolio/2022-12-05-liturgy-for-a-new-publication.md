@@ -11,11 +11,11 @@ tags:
 title: "Liturgy for a new publication"
 ---
 
-### You've written the piece. What happens next is in the Hands of God
+### You've written the piece. What happens next is in the hands of God
 
-As a scholar, writer, and activist, I sometimes feel overwhelmed by the months-long operation of publishing a new scholarly article, poem, or manifesto. The logistics of bringing words into the world and facing the consequences leave little time for reflection. That's one reason I loved evensong as a student at St. John's College Cambridge, where a short liturgy grounded my daily routine in the deeper story of our world. 
+As a scholar, writer, and organizer, I sometimes feel overwhelmed by the months-long operation of publishing a new scholarly article, poem, or manifesto. The logistics of bringing words into the world and facing the consequences leave little time for reflection. That's one reason I loved evensong as a student at St. John's College Cambridge, where a short liturgy grounded my daily routine in the deeper story of our world. 
 
-Inspired by [Every Moment Holy](https://www.everymomentholy.com/) and [Black Liturgies](https://www.instagram.com/blackliturgies), and [The Journalists' Prayer](https://www.stbrides.com/worship-music/worship/ministry-to-journalism/journalists-altar/), I have written the followiing liturgy for the day of a new publication.
+Inspired by [Every Moment Holy](https://www.everymomentholy.com/), [Black Liturgies](https://www.instagram.com/blackliturgies), and [The Journalists' Prayer](https://www.stbrides.com/worship-music/worship/ministry-to-journalism/journalists-altar/), I have written the following liturgy for the day of a new publication.
 
 <hr/>
 
@@ -30,7 +30,7 @@ Castaway cornerstone and manger-Lord, may readers look beyond who they think we 
 
 Designer of the mustard seed, grant us contentment with small beginnings and a yield of tall trees.
 
-Word made Flesh and table flipper, grant us the humility and courage to do justice to those who we have named in this work.
+Word made flesh and table flipper, grant us the humility and courage to do justice to those who we have named in this work.
 
 Bless our inboxes and those who fill them.
 
