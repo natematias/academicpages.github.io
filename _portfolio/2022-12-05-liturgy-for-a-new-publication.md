@@ -42,4 +42,4 @@ Interrogated Prince of Peace, we ask for shrewdness to answer critics with digni
 
 Child whose citations astonished the wise, may any light in this work be justly acknowledged, to grow and prosper all sound learning. Protect our souls from the distortions of conceit.
 
-Breath of life, grant us rest for work well done. And when that work is done, receive us to your living archive, Writer of a world without end. Amen.
+Breath of life, grant us rest for work well done. And when our work is done, receive us to your living archive, Writer of a world without end. Amen.
