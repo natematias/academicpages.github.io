@@ -8,18 +8,18 @@ image: '/images/boston-harbor-sunrise.jpg'
 description: "You've published the piece. What happens next is in the hands of God."
 tags:
 - writing
-title: "Liturgy for a new publication"
+title: "Blessing for a new publication"
 ---
 
 ### You've written the piece. What happens next is in the hands of God
 
 As a scholar, writer, and organizer, I sometimes feel overwhelmed by the months-long operation of publishing a new scholarly article, poem, or manifesto. The logistics of bringing words into the world and facing the consequences leave little time for reflection. That's one reason I loved evensong as a student at St. John's College Cambridge, where a short liturgy grounded my daily routine in the deeper story of our world. 
 
-Inspired by [Every Moment Holy](https://www.everymomentholy.com/), [Black Liturgies](https://www.instagram.com/blackliturgies), and [The Journalists' Prayer](https://www.stbrides.com/worship-music/worship/ministry-to-journalism/journalists-altar/), I have written the following liturgy for the day of a new publication.
+Inspired by [Every Moment Holy](https://www.everymomentholy.com/), [Black Liturgies](https://www.instagram.com/blackliturgies), and [The Journalists' Prayer](https://www.stbrides.com/worship-music/worship/ministry-to-journalism/journalists-altar/), I have written the following blessing for the day of a new publication.
 
 <hr/>
 
-### Liturgy for a New Publication
+### Blessing for a New Publication
 *J. Nathan Matias*
 
 God of wisdom and knowledge, we ask your blessing for a new publication.

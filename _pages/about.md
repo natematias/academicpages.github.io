@@ -16,20 +16,23 @@ I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communi
 
 <hr/>
 
-**I have sunsetted my Twitter account.** My last tweet was made on Nov 17, 2022. No more recent tweets are authentic. To keep up with me and my work, please [see the /updates/ page, which contains links and a sign-up](/updates/).
+**I have sunsetted my Twitter account.** My last tweet was made on Nov 17, 2022. Aside from tweets announcing this decision, no more recent tweets are authentic. To keep up with me and my work, please follow my accounts <a href="https://social.coop/@natematias">on Mastodon</a> and <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natematias">LinkedIn</a>, and [see the /updates/ page, which contains links and a sign-up](/updates/).
 
 <!--<p style="background:#eee; border:1px solid #ccc; border-radius:10px; padding:5px;"><strong>I am recruiting PhD students (apply 2021, start 2022)</strong> in Communication and Information Science. See my page for <a href="/recruiting">prospective PhD students</a>. </p>-->
 
-<a href="https://citizensandtech.org"><img src="images/CAT-Logo-Horizontal-social-media-preview-color.png" style="height:90px;"/></a> 
-<a href="https://upworthy.natematias.com"><img src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
+<a href="https://citizensandtech.org"><img alt="Citizens and Technology Lab" src="images/CAT-Logo-Horizontal-social-media-preview-color.png" style="height:90px;"/></a> 
+<a href="https://upworthy.natematias.com"><img alt="Upworthy Archive" src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
+<a href="/faculty-parity-projections/"><img alt="Faculty Parity Project" src="images/faculty-projections/faculty-parity-project-thumbnail.png" style="height:90px;margin-left:10px;"/></a>
 
 ### Recent Articles and Posts
-* Matias, J.N. (2022) [How to avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight). Knight First Amendment Institute, Columbia University
-* Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s    Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.      3533227).ACM Conference on Fairness, Accountability, and Transparency
+* Matias, J.N., Lewis, N. A., Hope, E. (2022) **[U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4)**. Nature Human Behavior.
+  * Flaherty, Colleen (2022) [Study finds true faculty diversity possible by 2050](https://www.insidehighered.com/news/2022/12/06/study-finds-true-faculty-diversity-possible-2050). Inside Higher Ed.
+<!--* Matias, J.N. (2022) [How to avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight). Knight First Amendment Institute, Columbia University-->
+* Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s    Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency
   * Blog post: "[when researchers study average treatment effects with between-subjects tests, their findings often exclude consideration of minority and marginalized groups](https://citizensandtech.org/research/n-of-one-trials/)"
 * Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-catastrophes) Just Tech. Social Science Research Council.
 * Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.
-  * Project Site: [Community-Centered Ethics Systems](https://citizensandtech.org/research/research-ethics-systems/)
+<!--  * Project Site: [Community-Centered Ethics Systems](https://citizensandtech.org/research/research-ethics-systems/)-->
   * Blog post: [Designing &amp; Evaluating Research Ethics Systems](https://citizensandtech.org/2022/02/designing-and-evaluating-research-ethics-systems/)
 * Matias, J. N., Lewis, N., Hope, E. (2021) [Universities Say They Want More Diverse Faculties. So Why is Academia So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/). FiveThirtyEight.
 * Matias, J. N., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) **[The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.  1038/s41597-021-00934-7).** Scientific Data (Nature).
@@ -41,7 +44,7 @@ I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communi
 * Zuckerman, E., Matias, J. N., Bhargava, R., Bermejo, F., & Ko, A. (2019). [Whose Death Matters? A Quantitative Analysis of Media Attention to Deaths of Black Americans in Police Confrontations, 2013–2016](https://ijoc.org/index.php/ijoc/article/view/8782). International Journal of Communication, 13, 27.
   * Blog announcement: [Whose deaths matter? New research on Black Lives Matter and media attention](https://medium.com/@EthanZ/whose-deaths-matter-new-research-on-black-lives-matter-and-media-attention-64322e14422d)
 * Matias, J. N. (2019). [Preventing harassment and increasing group participation through social norms in 2,190 online science discussions](/media/JNM-Preventing-Harassment-PNAS-2019.pdf). Proceedings of the National Academy of Sciences, 116(20), 9785-9789.
-  * Blog announcement: [Posting rules in science discussions prevents problems & increases participation](https://civilservant.io/moderation_experiment_r_science_rule_posting.html), Civilservant.io
+  <!--* Blog announcement: [Posting rules in science discussions prevents problems & increases participation](https://civilservant.io/moderation_experiment_r_science_rule_posting.html), Civilservant.io-->
 <!--  * Jacobs, Tom (May 10, 2019) [A simple way to reduce harassment in online discussion groups](https://psmag.com/news/a-simple-way-to-reduce-harassment-in-online-discussion-groups), Pacific Standard-->
  <!--   * McAllister, Ben (May 3, 2019) [Reducing harassment in online communities](https://www.thenakedscientists.com/articles/science-news/reducing-harassment-online-communities). The Naked Scientists ([podcast here](https://www.thenakedscientists.com/podcasts/short/reducing-harassment-online))-->
 <!--* J. Nathan Matias, Julia Kamin, and Max Klein (2019) [🌍😻🥤 Kittens, Baklava, and Bubble Tea: How Wikipedians Thank Each Other in Different Languages ](https://community.globalvoices.org/2019/01/kittens-baklava-and-bubble-tea-how-wikipedians-thank-each-other-in-different-languages/) ( read this post in [Deutsch](https://de.globalvoices.org/2019/01/17/katzchen-baklavas-und-bubble-tea-wie-sich-wikipedianer-in-verschiedenen-sprachen-danke-sagen/), [فارسی](https://fa.globalvoices.org/2019/01/17/5109/), [polski](https://pl.globalvoices.org/2019/01/kotki-baklawa-i-herbata-jak-uzytkownicy-wikipedii-dziekuja-sobie-nawzajem/), [عربي](https://ar.globalvoices.org/2019/01/17/60254/), [Español](https://es.globalvoices.org/2019/02/10/gatitos-baklava-y-te-de-burbujas-como-dicen-gracias-los-wikipedianos-en-diferentes-idiomas/))-->
