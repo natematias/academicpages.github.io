@@ -16,7 +16,7 @@ I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communi
 
 <hr/>
 
-**I have sunsetted my Twitter account.** My last tweet was made on Nov 17, 2022. Aside from tweets announcing this decision, no more recent tweets are authentic. To keep up with me and my work, please follow my accounts <a href="https://social.coop/@natematias">on Mastodon</a> and <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natematias">LinkedIn</a>, and [see the /updates/ page, which contains links and a sign-up](/updates/).
+<!--**I have sunsetted my Twitter account.** My last tweet was made on Nov 17, 2022. Aside from tweets announcing this decision, no more recent tweets are authentic. To keep up with me and my work, please follow my accounts <a href="https://social.coop/@natematias">on Mastodon</a> and <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natematias">LinkedIn</a>, and [see the /updates/ page, which contains links and a sign-up](/updates/).-->
 
 <!--<p style="background:#eee; border:1px solid #ccc; border-radius:10px; padding:5px;"><strong>I am recruiting PhD students (apply 2021, start 2022)</strong> in Communication and Information Science. See my page for <a href="/recruiting">prospective PhD students</a>. </p>-->
 
