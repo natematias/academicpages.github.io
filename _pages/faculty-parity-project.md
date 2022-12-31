@@ -13,7 +13,7 @@ Universities say they're increasing faculty diversity. Is that translating to ch
 
 *paper By [J. Nathan Matias](https://natematias.com), [Neil Lewis Jr.](https://neillewisjr.com/), and [Elan Hope](https://www.prainc.com/about-us/our-staff/elan-hope/)*
 
-> U.S. universities have made public commitments to recruit and retain faculty of color. Analysis of three federal datasets shows that at current rates, diversity in U.S. faculty will never reach racial parity. Yet colleges and universities could achieve parity by 2050 by diversifying their faculty at 3.5 times the current pace.
+> U.S. universities have made public commitments to recruit and retain faculty of color. Analysis of three federal datasets shows that at current rates, diversity in U.S. faculty will never reach racial parity. Yet colleges and universities could achieve parity by 2050 by diversifying their faculty 0.78 more percentage points per year.
 
 <div align="center"><a href="/images/all_institution_projections.png"><img style="width:70%" src="/images/all_institution_projections1200-1080.jpg"/></a></div>
 
