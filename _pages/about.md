@@ -24,8 +24,9 @@ I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communi
 <a href="https://upworthy.natematias.com"><img alt="Upworthy Archive" src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 <a href="/faculty-parity-projections/"><img alt="Faculty Parity Project" src="images/faculty-projections/faculty-parity-project-thumbnail.png" style="height:90px;margin-left:10px;"/></a>
 
-### Recent Articles and Posts
-* Matias, J.N., Lewis, N. A., Hope, E. (2022) **[U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4)**. Nature Human Behavior.
+### Recent Articles
+* Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
+* Matias, J.N., Lewis, N. A., Hope, E. (2022) [U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4). Nature Human Behavior.
   * Flaherty, Colleen (2022) [Study finds true faculty diversity possible by 2050](https://www.insidehighered.com/news/2022/12/06/study-finds-true-faculty-diversity-possible-2050). Inside Higher Ed.
 <!--* Matias, J.N. (2022) [How to avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight). Knight First Amendment Institute, Columbia University-->
 * Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s    Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency

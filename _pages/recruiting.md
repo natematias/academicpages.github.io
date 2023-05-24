@@ -43,9 +43,10 @@ We are distinctive for [developing our research agendas directly with affected c
 
 CAT Lab typically takes on three **kinds of projects**:
 
-* Research studies / audits that contribute to the social sciences, especially focused on human-algorithm behavior the psychology of social norms ([example](https://www.pnas.org/content/118/16/e2013833118.short))
+* Research studies / audits that contribute to the social sciences, especially focused on human-algorithm behavior and the psychology of social norms ([example](https://www.pnas.org/content/118/16/e2013833118.short))
 * Computer science papers on novel datasets or systems/algorithms we develop to support those studies ([example 1](https://jonathanzong.com/assets/papers/automated-debriefing-cscw-2018.pdf), [example 2](https://www.nature.com/articles/s41597-021-00934-7))
-* Big-picture articles that summarize or argue an important point to academics, civil society, and policymakers ([example](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/)
+* Projects in computer science and the social sciences that broaden diversity through citizen science and public engagement ([example](https://citizensandtech.org/research/n-of-one-trials/))
+* Big-picture articles that summarize or argue an important point to academics, civil society, and policymakers ([example](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/))
 
 CAT Lab's funding model is [independent from the technology industry](https://citizensandtech.org/2020/01/industry-independent-research/), which frees us to do public-interest work whether or not companies find our results comfortable.
 
@@ -57,7 +58,7 @@ Individual CAT Lab members have a history of organizing advocacy related to the 
 ## What kind of applicants am I looking for?
 I am equally interested in applicants:
  
-* with a track record in social sciences (esp psychology)/computing
+* with a track record in social sciences (especially experiments) and/or computing
 * who want to transition into those fields and can demonstrate your motivations/potential for making that transition
 
 For more guidance on Communication and Information Science, please see guidance on [Communication PhD admissions](https://cals.cornell.edu/communication/graduate/admissions-financial-support) and [Information Science PhD admissions](https://infosci.cornell.edu/phd/admissions) for more details.
@@ -86,7 +87,7 @@ As a PhD student, you can expect to be fully funded during the standard PhD leng
 * [Funding in Communication](https://cals.cornell.edu/communication/graduate/admissions-financial-support)
 * [Funding in Information Science](https://infosci.cornell.edu/phd/admissions)
 
-Because CAT Lab is an industry-independent research lab, we have fewer funding sources than other labs. Despite that, the lab has led or participated in over $2m in grants and donations in my first three years at Cornell. While most of these funds support CAT Lab's [professional staff, community organizers, and software systems](https://citizensandtech.org/about-cat-lab/), we can also fund semesters as research assistants on pre-existing projects. 
+Because CAT Lab is an industry-independent research lab, we have fewer funding sources than other labs. Despite that, the lab has led or participated in over 6 million dollars in grants and donations since its founding. While most of these funds support CAT Lab's [professional staff, community organizers, and software systems](https://citizensandtech.org/about-cat-lab/), we can also fund semesters as research assistants on pre-existing projects.
 
 When I was a PhD student, the art of fundraising was one of the most valuable skills I learned from my advisor [Ethan Zuckerman](https://ethanzuckerman.com/). At CAT Lab, you will get mentorship in the strategy and craft of raising funds for academic, nonprofit, and for-profit ventures.
 
@@ -157,13 +158,13 @@ At CAT Lab, we very deliberately structure our outreach/collaborations to be glo
 
 In recent years, I have:
 
-  * Helped re-designthe graduate admissions process to be more inclusive
+  * Helped re-design the graduate admissions process to be more inclusive
   * Led trainings for under-represented minority graduate students on how to have a public voice and manage the risks of harassment
   * Led and supported efforts to change how charitable foundations think and act on funding diversity
   * Re-worked course syllabi to include more readings from a wider range of identities, including perspectives from the Global South
   * Volunteered with initiatives that broaden the pipeline for women and under-represented minorities in higher education
 
-I am especially energized when contributing to projects that support excellence among people who aren't commonly included in academia–people who I am excited to see grow personally as their perspectives and creativity transform their institutions and their fields.
+I am especially energized when contributing to projects that support excellence among people who aren't commonly included in academia–people who I am excited to see grow personally as your perspectives and creativity transform your institutions and your fields.
 
 # Questions / Answers
 * **Does CAT Lab advise undergraduate students?** Right now CAT Lab is not recruiting new undergraduate research assistants, sorry!
