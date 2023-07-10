@@ -2,7 +2,7 @@
 date: '2023-05-23'
 filename: 2023-05-23-mapping-a-different-kind-of
 link: https://globalvoices.org/2023/05/23/mapping-a-different-kind-of-bicycle-tour/
-publisher: Global Voices Nathan
+publisher: Global Voices
 title: Mapping a different kind of bicycle tour
 ---
 

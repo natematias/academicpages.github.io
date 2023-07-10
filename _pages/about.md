@@ -12,7 +12,7 @@ I study digital governance and behavior change in groups and networks shaped by 
 
 <p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
 
-I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communication and Siegel Research Fellow at the [Center for Advanced Study in the Behavioral    Sciences](https://casbs.stanford.edu/about/history), Stanford University. In the summer   of 2022-23, I am also an [visiting associate research scholar](https://knightcolumbia.   org/bios/view/-37) at the Knight First Amendment Institute at Columbia University.
+I am also a co-founder and executive committee member of the [Coalition for Independent Technology Research](independenttechresearch.org/). In the summer of 2023, I am a [visiting associate research scholar](https://knightcolumbia.org/bios/view/-37) at the Knight First Amendment Institute at Columbia University.
 
 <hr/>
 
@@ -23,8 +23,11 @@ I am currently a 2022-23 Lenore Annenberg and Wallis Annenberg Fellow in Communi
 <a href="https://citizensandtech.org"><img alt="Citizens and Technology Lab" src="images/CAT-Logo-Horizontal-social-media-preview-color.png" style="height:90px;"/></a> 
 <a href="https://upworthy.natematias.com"><img alt="Upworthy Archive" src="https://upworthy.natematias.com/assets/images/upworthy-archive-logo-orange-grey.png" style="height:90px;"/></a>
 <a href="/faculty-parity-projections/"><img alt="Faculty Parity Project" src="images/faculty-projections/faculty-parity-project-thumbnail.png" style="height:90px;margin-left:10px;"/></a>
+<br/>
+<a href="https://independenttechresearch.org/"><img alt="Coalition for Independent Technology Research" src="images/CITR-logo.png" style="height:75px;"/></a> 
 
 ### Recent Articles
+* Matias, J.N. (2023, forthcoming) **Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment**. Scientific Reports.
 * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
 * Matias, J.N., Lewis, N. A., Hope, E. (2022) [U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4). Nature Human Behavior.
   * Flaherty, Colleen (2022) [Study finds true faculty diversity possible by 2050](https://www.insidehighered.com/news/2022/12/06/study-finds-true-faculty-diversity-possible-2050). Inside Higher Ed.
