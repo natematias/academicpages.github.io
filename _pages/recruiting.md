@@ -56,10 +56,10 @@ CAT Lab's funding model is [independent from the technology industry](https://ci
 Individual CAT Lab members have a history of organizing advocacy related to the topics we study, as well as justice issues in higher education.
 
 ## What kind of applicants am I looking for?
-I am equally interested in applicants:
+Right now, I am interested in applicants:
  
-* with a track record in social sciences (especially experiments) and/or computing
-* who want to transition into those fields and can demonstrate your motivations/potential for making that transition
+* with training in quantitative social sciences (especially experiments)
+* who are interested in participatory research with communities
 
 For more guidance on Communication and Information Science, please see guidance on [Communication PhD admissions](https://cals.cornell.edu/communication/graduate/admissions-financial-support) and [Information Science PhD admissions](https://infosci.cornell.edu/phd/admissions) for more details.
 
@@ -98,12 +98,16 @@ Cornell also offers several [fellowships in support of diversity](https://gradsc
 If you want to apply for graduate fellowships, I will support those applications, including summer internships and funding from technology firms. To avoid penalizing students for exploring valuable industry opportunities, we have a conflict of interest policy. Corporate-funded projects will be done independently from CAT Lab's name/staff/resources. While funded by a company, you will also need to step aside from any CAT Lab project that involves that company, which is pretty standard corporate policy as well.
 
 # Current and Past Students
+I ask you to respect student time and please don't contact them to ask them about CAT Lab. Students, especially those who are under-represented in science, sometimes face [an overwhelming number of requests for service](https://www.science.org/content/article/tips-easing-service-burden-scientists-underrepresented-groups), and one of my jobs as a faculty member is to protect their time. Thanks!
 
 ### Lucas Wright
 ![image Lucas Wright](https://citizensandtech.org/wp-content/uploads/2021/04/Lucas-Wright-200x200.jpg) Lucas is a graduate student in the Department of Communication at Cornell University. His research focuses on how online platforms regulate the behavior of users, especially through automated, algorithmic interventions. I am Lucas's PhD advisor. We have been working together on research related to online harassment, content moderation, and the governance of algorithms
 
 * Matias, J.N. Wright, L. [Impact Assessment of Human-Algorithm Feedback Loops](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/). Social Science Research Council.
 * Matias, J., Mou, M., Penney, J., Klein, M., & Wright, L. (2021). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/).
+
+### [Jennifer Otiono](https://jenniferotiono.wordpress.com/) ![image Jennifer Otiono](https://citizensandtech.org/wp-content/uploads/2023/01/ima_4aa64b3-200x200.jpeg) Jennifer (she/they) is a PhD student in the Information Science Department at Cornell University. Jennifer’s research focuses on Human-AI interaction and how it engages with black digital life and identity, entrepreneurial content creators, and creativity, including AI ethics, accountability, and reparation.
+* Otiono, J., Matias, J.N. [Why Have Algorithms Stopped Promoting Black History Month?](https://citizensandtech.org/2023/03/black-history-month/). Citizens and Technology Lab
 
 ### Marianne Aubin le Quere
 ![image Marianne Aubin Le Quere](/images/students/marianne1.jpg)

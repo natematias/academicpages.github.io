@@ -10,7 +10,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 {% include base_path %}
 
 <h2>Peer Reviewed Journal Articles &amp; Conference Publications</h2>
-* * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.   nature.com/articles/d41586-023-01521-z). Nature.
+<!--* Matias, J.N. (2023, forthcoming) Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by            Encouraging Humans to Fact-Check Articles, in a Field Experiment. Scientific Reports.-->
+* Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
 * Matias, J.N., Lewis, N. A., Hope, E. (2022) **[U.S. Universities Are Not Succeeding in            Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4)**. Nature Human Behavior.
 * Matias, J.N., Pennington, E., Chan, Z.T. (2022). [Testing Concerns about Technology’s Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency.
 * Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-         catastrophes) Just Tech. Social Science Research Council. March 1, 2022
