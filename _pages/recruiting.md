@@ -58,7 +58,7 @@ Individual CAT Lab members have a history of organizing advocacy related to the 
 ## What kind of applicants am I looking for?
 Right now, I am interested in applicants:
  
-* with training in quantitative social sciences (especially experiments)
+* with training in quantitative social sciences (some understanding of experiments helpful but not required)
 * who are interested in participatory research with communities
 
 For more guidance on Communication and Information Science, please see guidance on [Communication PhD admissions](https://cals.cornell.edu/communication/graduate/admissions-financial-support) and [Information Science PhD admissions](https://infosci.cornell.edu/phd/admissions) for more details.
@@ -156,7 +156,9 @@ Merry worked with me on the very first CAT Lab software systems as a computer sc
 * Matias, J. N., Diehl, S., & Zuckerman, E. (2015, April). [Passing on: Reader-sourcing gender diversity in Wikipedia](https://dl.acm.org/doi/abs/10.1145/2702613.2732907?casa_token=xNCIIalp1DgAAAAA%3AaceAV3bZu7Wl_oON5wU6C7Lp4yQsqlJ7eh8Sh0BSGe9s26SX1WdsyRxvW_zWu2TyLpbPFXQ-nh8Y0A). In Proceedings of the 33rd Annual ACM Conference Extended Abstracts on Human Factors in Computing Systems (pp. 1073-1078).
 
 # Diversity and Inclusion
-As a white-passing Guatemalan-American whose family moved to the U.S. during the civil war and genocide, I sit at the confluence of key themes in diversity and inclusion, especially ones related to power and access. Throughout my career, I have worked to support students and institutions to make the most of the world-changing potential of diverse, inclusive participation.
+As a white-passing Guatemalan-American whose family moved to the U.S. during the civil war and genocide, I sit at the confluence of key themes in diversity and inclusion, especially ones related to power and access. Throughout my career, I have worked to support students to create transformation from within science and academia.
+
+* Matias, J. N. (2023) [To Hold Tech Accountable Look to Public Health: The field of public health has transformed medicine, yet failed the most vulnerable. This trajectory can be avoided.](https://www.wired.com/story/tech-governance-public-health/) WIRED.
 
 At CAT Lab, we very deliberately structure our outreach/collaborations to be globally and socially diverse. With the help of our collaborators at [Global Voices](https://globalvoices.org/about/), we have also designed our work to include people from many countries speaking many different languages.
 
@@ -167,8 +169,9 @@ In recent years, I have:
   * Led and supported efforts to change how charitable foundations think and act on funding diversity
   * Re-worked course syllabi to include more readings from a wider range of identities, including perspectives from the Global South
   * Volunteered with initiatives that broaden the pipeline for women and under-represented minorities in higher education
+  * Published multiple academic articles and news articles about diversity in science
 
-I am especially energized when contributing to projects that support excellence among people who aren't commonly included in academia–people who I am excited to see grow personally as your perspectives and creativity transform your institutions and your fields.
+I am especially energized when contributing to projects that support excellence among people who aren't commonly included in academia—people who I am excited to see grow personally as your perspectives and creativity transform your institutions and your fields.
 
 # Questions / Answers
 * **Does CAT Lab advise undergraduate students?** Right now CAT Lab is not recruiting new undergraduate research assistants, sorry!
