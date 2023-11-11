@@ -2,7 +2,7 @@
 title: "Designing Field Experiments at Scale (Seminar)"
 collection: teaching
 type: "Undergraduate Class"
-permalink: /teaching/designing-field-experiments-princeton
+permalink: /teaching/designing-field-experiments-princeton.html
 venue: "Princeton University, Sociology"
 image: "http://natematias.com/courses/soc412/ZSATRwm.png"
 date: 2019-01-01

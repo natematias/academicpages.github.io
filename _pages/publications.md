@@ -1,21 +1,37 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on <u><a href="https://scholar.google.com/citations?user=dxS6iCgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 {% include base_path %}
 
+<blockquote>Man, a child in understanding of himself, has placed in his hands... tools of incalculable power. He plays with them like a child, and whether they work harm or good is largely a matter of accident.<br/><div align="right">—"The Public and its Problems" by John Dewey</div></blockquote>
+
+Half a century after the invention of the Internet, society still struggles with a fundamental problem for the fate of humanity: how to match the capacity to create communication technologies with the capacity to ensure their uses are beneficial. As a social scientist and computer scientist, I study feedback loops of collective behavior between humans and software algorithms that escalate violence, undermine civic discourse, and sometimes expand the common good.
+
+I do this by working on three basic challenges:
+
+* science cannot yet reliably forecast or influence technology-mediated collective behavior
+* growth in scientific knowledge has been kept behind the pace of technological change
+* exclusive boundaries in science prevent us from investigating questions that matter in people's lives
+
+I work on these three challenges through the [Citizens and Technology Lab](https://citizensandtech.org) (CAT Lab), a research organization I founded and merged into Cornell in 2019. We fill in unanswered questions on digital governance by collaborating with communities to answer scientific, pragmatic, and policy questions about digital life. We grow the pace of knowledge creation through innovations in research infrastructures that often involve novel contributions to computer science. Finally, we broaden leadership in science inside and outside of academia through community science and scientific research on diversity in knowledge creation. 
+
+<img src="/images/2023-11-jnm-publication-logos.png" width="100%"/>
+
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=dxS6iCgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
+
 <h2>Peer Reviewed Journal Articles &amp; Conference Publications</h2>
-* Matias, J.N. (2023, forthcoming) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports.
+* Zong, J., & Matias, J. N. (2023). [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https://dl.acm.org/doi/10.1145/3630107). ACM Journal on Responsible Computing.
+* Matias, J.N. (2023) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports.
 * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
 * Matias, J.N., Lewis, N. A., Hope, E. (2022) **[U.S. Universities Are Not Succeeding in            Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4)**. Nature Human Behavior.
 * Matias, J.N., Pennington, E., Chan, Z.T. (2022). [Testing Concerns about Technology’s Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency.
-* Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-         catastrophes) Just Tech. Social Science Research Council. March 1, 2022
-* Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/              20563051221077021). Social Media + Society.
+* Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-catastrophes) Just Tech. Social Science Research Council. March 1, 2022
+* Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.
 * Matias, J. N., Hounsel, A., Feamster, N., (2022) [Software-Supported Audits of Decision-Making Systems: Testing Google and Facebook’s Political Advertising policies](https://arxiv.org/pdf/2103.00064.pdf). The 25th ACM Conference on Computer-Supported Cooperative Work and Social Computing.
   * Blog post: [Crowdsourced Audits of Algorithmic Decision-Makers](https://citizensandtech.org/2021/11/crowdsourced-audit-studies/)
 * Matias, J., Munger, K., Aubin Le Quere, M.A., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of experiments in U.S. media](https://www.nature.com/articles/s41597-021-00934-7). Nature Scientific Data

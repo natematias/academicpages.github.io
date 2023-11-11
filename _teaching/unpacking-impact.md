@@ -2,7 +2,7 @@
 title: "Unpacking Impact"
 collection: teaching
 type: "Undergraduate and Graduate Class"
-permalink: /teaching/unpacking-impact
+permalink: /teaching/unpacking-impact.html
 venue: "MIT Media Lab"
 image: "https://imgur.com/G1GMWkh.png"
 date: 2015-09-01
