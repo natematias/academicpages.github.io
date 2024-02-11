@@ -31,6 +31,7 @@ Society needs leaders [who can make evidence-based progress](https://natematias.
 For guidance on where else to apply, see my post: "[So you want to study technology, democracy, and social change?](https://natematias.medium.com/so-you-want-to-study-technology-democracy-and-social-change-9ef3e73fa635)"
 
 <a href="https://www.citizensandtech.org"><img style="float:right; width:50% !important" src="https://natematias.com/images/CAT-Logo-Horizontal-social-media-preview-color.png"/></a>
+
 ## About CAT Lab
 At CAT Lab, we are advancing a world where digital power is guided by evidence and accountable to the public. We do this by working directly with communities affected by digital power on research that:
 
@@ -62,6 +63,8 @@ Right now, I am interested in applicants:
 * who are interested in participatory research with communities
 
 For more guidance on Communication and Information Science, please see guidance on [Communication PhD admissions](https://cals.cornell.edu/communication/graduate/admissions-financial-support) and [Information Science PhD admissions](https://infosci.cornell.edu/phd/admissions) for more details.
+
+Even as you think about working with me, I encourage you to look for other faculty in Communication and Information Science who you might be able to work with. There will likely be multiple faculty who are excited to work with you!
 
 ## What will you work on?
 One purpose of the PhD is to support your personal growth toward your own ideas and initiatives that you imagine and put into the world. 
@@ -97,36 +100,44 @@ Cornell also offers several [fellowships in support of diversity](https://gradsc
 
 If you want to apply for graduate fellowships, I will support those applications, including summer internships and funding from technology firms. To avoid penalizing students for exploring valuable industry opportunities, we have a conflict of interest policy. Corporate-funded projects will be done independently from CAT Lab's name/staff/resources. While funded by a company, you will also need to step aside from any CAT Lab project that involves that company, which is pretty standard corporate policy as well.
 
-# Current and Past Students
-I ask you to respect student time and please don't contact them to ask them about CAT Lab. Students, especially those who are under-represented in science, sometimes face [an overwhelming number of requests for service](https://www.science.org/content/article/tips-easing-service-burden-scientists-underrepresented-groups), and one of my jobs as a faculty member is to protect their time. Thanks!
+# Current Students
+Here is a list of the students I'm lucky enough to advise and serve as a committee member. I ask you to respect student time; please don't contact them to ask them about CAT Lab. Students, especially those who are under-represented in science, sometimes face [an overwhelming number of requests for service](https://www.science.org/content/article/tips-easing-service-burden-scientists-underrepresented-groups), and one of my jobs as a faculty member is to protect their time. Thanks!
 
 ### Lucas Wright
 ![image Lucas Wright](https://citizensandtech.org/wp-content/uploads/2021/04/Lucas-Wright-200x200.jpg) Lucas is a graduate student in the Department of Communication at Cornell University. His research focuses on how online platforms regulate the behavior of users, especially through automated, algorithmic interventions. I am Lucas's PhD advisor. We have been working together on research related to online harassment, content moderation, and the governance of algorithms
 
-* Matias, J.N. Wright, L. [Impact Assessment of Human-Algorithm Feedback Loops](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/). Social Science Research Council.
-* Matias, J., Mou, M., Penney, J., Klein, M., & Wright, L. (2021). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/).
+* Matias, J.N. Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/). Social Science Research Council.
+* Wright, L. (2022) [Automated Platform Governance Through Visibility and Scale: On the Transformational Power of AutoModerator](https://journals.sagepub.com/doi/full/10.1177/20563051221077020). Social Media+ Society, 8(1), 20563051221077020.
+* Matias, J., Mou, M., Penney, J., Klein, M., & Wright, L. (2021) [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/).
 
-### [Jennifer Otiono](https://jenniferotiono.wordpress.com/) ![image Jennifer Otiono](https://citizensandtech.org/wp-content/uploads/2023/01/ima_4aa64b3-200x200.jpeg) Jennifer (she/they) is a PhD student in the Information Science Department at Cornell University. Jennifer’s research focuses on Human-AI interaction and how it engages with black digital life and identity, entrepreneurial content creators, and creativity, including AI ethics, accountability, and reparation.
+### [Jennifer Otiono](https://jenniferotiono.wordpress.com/) 
+![image Jennifer Otiono](https://citizensandtech.org/wp-content/uploads/2023/01/ima_4aa64b3-200x200.jpeg) Jennifer (she/they) is a PhD student in the Information Science Department at Cornell University. Jennifer’s research focuses on Human-AI interaction and how it engages with black digital life and identity, entrepreneurial content creators, and creativity, including AI ethics, accountability, and reparation.
 * Otiono, J., Matias, J.N. [Why Have Algorithms Stopped Promoting Black History Month?](https://citizensandtech.org/2023/03/black-history-month/). Citizens and Technology Lab
+
+### Alexandra Gonzalez
+![image Alexandra Gonzalez](https://citizensandtech.org/wp-content/uploads/2023/10/AG-200x200.jpg) Alexandra (she/her/hers) is pursuing her Ph.D. in the Information Science department at Cornell University. Alexandra focuses on the intersectionality of cybersecurity, public policy, and children’s online safety. Her previous research includes projects addressing critical issues such as sextortion, malware, and IOT device security. In addition to her academic pursuits, Alexandra brings practical experience as an Information Security Analyst and has also served as an Adjunct Professor. 
 
 ### Marianne Aubin le Quere
 ![image Marianne Aubin Le Quere](/images/students/marianne1.jpg)
-[Marianne](https://mariannealq.com/) is a PhD student at Cornell Tech who studies news metrics and engagement, particularly in the context of local news ecosystems. I advised Marianne's first year at Cornell. We developed the [Upworthy Research Archive](https://upworthy.natematias.com) together. 
+[Marianne](https://mariannealq.com/) is a PhD student at Cornell Tech who studies news metrics and engagement, particularly in the context of local news ecosystems. I advised Marianne's first year at Cornell. We developed the [Upworthy Research Archive](https://upworthy.natematias.com) together. I now serve on Marianne's committee.
 
-* Matias, J. N., Munger, K., Le Quere, M. A., & Ebersole, C. (2021). [The Upworthy Research Archive, a time series of 32,487 experiments in US media](https://www.nature.com/articles/s41597-021-00934-7). Scientific Data, 8(1), 1-6.
+* Matias, J. N., Munger, K., Le Quere, M. A., & Ebersole, C. (2021). [The Upworthy Research Archive, a time series of 32,487 experiments in US media](https://www.nature.com/articles/s41597-021-00934-7). Scientific Data, 8(1), 1-6. 
 
 ### Jonathan Zong
 ![image Jonathan Zong](https://citizensandtech.org/wp-content/uploads/2021/02/899466367687708711-190130-zong-jonathan-0012.full_-200x200.jpg)
-[Jonathan](https://jonathanzong.com/) is a visual artist and computer scientist who uses design as a method for understanding how interaction mediates the relationship between abstract data models and the social world. I advised Jonathan's undergraduate thesis at Princeton, he was a visiting graduate fellow at CAT Lab in 2019. He is now a PhD student at MIT and a graduate research fellow at CAT Lab. We have developed numerous projects together focused on software design and research ethics. 
+[Jonathan](https://jonathanzong.com/) is a visual artist and computer scientist who uses design as a method for understanding how interaction mediates the relationship between abstract data models and the social world. I advised Jonathan's undergraduate thesis at Princeton, he was a visiting graduate fellow at CAT Lab in 2019. He is now a PhD student at MIT and a graduate research fellow at CAT Lab. We have developed numerous projects together focused on software design and research ethics. I serve on Jonathan's PhD committee.
 
 * 2020 · [From Individual Consent to Collective Refusal](https://jonathanzong.com/assets/papers/xrds-refusal-2020.pdf) · Jonathan Zong. ACM XRDS (Crossroads).
 * 2018 · [Automated Debriefing: Interface for Large-Scale Research Ethics](https://jonathanzong.com/assets/papers/automated-debriefing-cscw-2018.pdf) · Jonathan Zong, J. Nathan Matias. Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing. (Best Demo Award)
 
-### Aparajita Bhandari
-![image Aparajita Bhandari](/images/students/aparajita-bhandari.jpg) Aparajita studies social media and social movements, algorithms and governance of platforms, and technology and community. I am on Aparajita's PhD committee and have supported her work on [digital infrastructure projects led by homeless people in New York City](https://citizensandtech.org/2019/12/new-directions-for-citizen-research-action/#homelessness).
+# Past Students
+I am so grateful for and proud of the students who I have gotten to work with over the years. 
 
-### Maurice Jakesch
-![image Maurice Jakesch](/images/students/jakesch3.jpg) Maurice is an Information Science PhD candidate at Cornell Tech, where he studies how people decide what’s credible or authentic in a networked society. I am on Maurice's PhD committee. 
+### Dr. Aparajita Bhandari
+![image Aparajita Bhandari](/images/students/aparajita-bhandari.jpg) Aparajita studies social media and social movements, algorithms and governance of platforms, and technology and community. Iserved on Aparajita's PhD committee and have supported her work on [digital infrastructure projects led by homeless people in New York City](https://citizensandtech.org/2019/12/new-directions-for-citizen-research-action/#homelessness). I served on PhD Aparajita's committee.
+
+### Dr. Maurice Jakesch
+![image Maurice Jakesch](/images/students/jakesch3.jpg) Maurice was an Information Science PhD candidate at Cornell Tech, where he studies how people decide what’s credible or authentic in a networked society. I served on Maurice's PhD committee. 
 
 ### Prateek Rai
 ![image Prateek Rai](/images/students/prateek-rai.jpg) Prateek completed his Master's degree in Information Science at Cornell in 2020. That year, he worked with CAT Lab on a project to evaluate web browser privacy protections. After Cornell, Prateek joined a platform trust and safety team as a data scientist.

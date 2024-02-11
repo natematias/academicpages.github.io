@@ -12,7 +12,7 @@ I study digital governance and behavior change in groups and networks shaped by 
 
 <p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
 
-I am also a co-founder and executive committee member of the [Coalition for Independent Technology Research](independenttechresearch.org/).
+I am also a co-founder and executive committee member of the [Coalition for Independent Technology Research](https://independenttechresearch.org/).
 <hr/>
 
 <!--**I have sunsetted my Twitter account.** My last tweet was made on Nov 17, 2022. Aside from tweets announcing this decision, no more recent tweets are authentic. To keep up with me and my work, please follow my accounts <a href="https://social.coop/@natematias">on Mastodon</a> and <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natematias">LinkedIn</a>, and [see the /updates/ page, which contains links and a sign-up](/updates/).-->
@@ -24,6 +24,8 @@ I am also a co-founder and executive committee member of the [Coalition for Inde
 <a href="/faculty-parity-projections/"><img alt="Faculty Parity Project" src="images/faculty-projections/faculty-parity-project-thumbnail.png" style="height:90px;margin-left:10px;"/></a>
 <a href="https://independenttechresearch.org/"><img alt="Coalition for Independent Technology Research" src="images/CITR-logo.png" style="height:65px;"/></a> 
 
+### Recent News
+* Matias, J.N. (2023) [Science for Survival and Hope: Receiving the Rise25 Award from Mozilla](https://natematias.medium.com/science-for-survival-and-hope-9c5195264c60). Medium
 
 ### Recent Research
 * Zong, J., Matias, J.N. (2023) [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https://dl.acm.org/doi/10.1145/3630107). ACM Journal of Responsible Computing 
