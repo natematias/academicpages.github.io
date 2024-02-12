@@ -6,7 +6,7 @@ modified: 2022-10-1717
 
 {% include base_path %}
 
-Dr. [J. Nathan Matias](https://natematias.com) (<a href="https://twitter.com/natematias">@natematias</a>) is a computer scientist and social scientist who organizes citizen behavioral science for a safer, fairer, more understanding Internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication and field member in Information Science.
+Dr. [J. Nathan Matias](https://natematias.com) (<a href="https://social.coop/@natematias">@natematias</a>) is a computer scientist and social scientist who organizes citizen behavioral science for a safer, fairer, more understanding Internet. A Guatemalan-American, Nathan is founder of the Citizens and Technology Lab, an assistant professor in the Cornell University Department of Communication, and field member in Information Science.
 
 * [Full-size bio photo](/images/CALS_20190911_540-cropped.jpg) (Credit: Allison Usavage/Cornell CALS.)
 * [Full-size cycling bio photo](/images/1Q6A5464-small-campbell.jpg) (CC-BY-2.0 Credit: Cameron D. Campbell)

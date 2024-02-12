@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I study digital governance and behavior change in groups and networks shaped by algorithms. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
+I study digital governance and behavior change in groups and networks shaped by AI systems. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
 
 <p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
 
@@ -27,21 +27,32 @@ I am also a co-founder and executive committee member of the [Coalition for Inde
 ### Recent News
 * Matias, J.N. (2023) [Science for Survival and Hope: Receiving the Rise25 Award from Mozilla](https://natematias.medium.com/science-for-survival-and-hope-9c5195264c60). Medium
 
-### Recent Research
-* Zong, J., Matias, J.N. (2023) [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https://dl.acm.org/doi/10.1145/3630107). ACM Journal of Responsible Computing 
+### Recent Scientific Research
+Here are some of my most recent scientific publications, organized by topic ([full publication list here](https://natematias.com/publications/)).
+
+#### Human-AI Behavior
+<!--* Wright, L., Muenster, R., Vecchione, B., Qu, T., Cai, S., Smith, A., Student Investigators, Metcalf, J., Matias, J.N. (Jan 22, 2024) [Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability](https://osf.io/4y7d2). DOI 10.17605/OSF.IO/UPFDK
+  * Blog post: [Studying how employers comply with NYC's new hiring algorithm law](https://citizensandtech.org/research/2024-algorithm-transparency-law/)-->
+* Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
 * Matias, J.N. (2023) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports (Nature).
   * Blog post: [A Rosetta Stone for Socio-Technical Science of Human-Algorithm Behavior](https://citizensandtech.org/2023/07/rosetta-stone/)
-* Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
+
+#### Research Methods and Ethics
+* Zong, J., Matias, J.N. (2023) [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https://dl.acm.org/doi/10.1145/3630107). ACM Journal of Responsible Computing 
+* Matias, J. N., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.  1038/s41597-021-00934-7). Scientific Data (Nature).
+* Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.
+  * Project Site: [Community-Centered Ethics Systems](https://citizensandtech.org/research/research-ethics-systems/)
+* Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency
+  * Blog post: [When researchers study average treatment effects, the findings often exclude minority groups](https://citizensandtech.org/research/n-of-one-trials/)"
+<!--* Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-Led Experiments in Platform Governance](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 9). ACM.-->
+
+#### Diversity/Equity/Inclusion in Science
 * Matias, J.N., Lewis, N. A., Hope, E. (2022) [U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4). Nature Human Behavior.
   * Flaherty, Colleen (2022) [Study finds true faculty diversity possible by 2050](https://www.insidehighered.com/news/2022/12/06/study-finds-true-faculty-diversity-possible-2050). Inside Higher Ed.
-* Matias, J. N., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) **[The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.  1038/s41597-021-00934-7).** Scientific Data (Nature).
 * Matias, J. N. (2019). [Preventing harassment and increasing group participation through social norms in 2,190 online science discussions](/media/JNM-Preventing-Harassment-PNAS-2019.pdf). Proceedings of the National Academy of Sciences, 116(20), 9785-9789.
 
-<!-- * Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s    Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency
-  * Blog post: "[when researchers study average treatment effects with between-subjects tests, their findings often exclude consideration of minority and marginalized groups](https://citizensandtech.org/research/n-of-one-trials/)"
+<!--
 * Matias, J.N., Wright, L. (2022) [Impact Assessment of Human-Algorithm Feedback Loops](https://citizensandtech.org/research/impact-assessment-of-human-algorithm-catastrophes) Just Tech. Social Science Research Council.
-* Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.
-  * Project Site: [Community-Centered Ethics Systems](https://citizensandtech.org/research/research-ethics-systems/)-
   * Blog post: [Designing &amp; Evaluating Research Ethics Systems](https://citizensandtech.org/2022/02/designing-and-evaluating-research-ethics-systems/)
 * Kaiser, B., Wei, J., Lucherini, E,. Lee, K., Matias, J.N., Mayer, J. (2020) [Adapting Security Warnings to Counter Misinformation](https://www.usenix.org/conference/usenixsecurity21/presentation/kaiser). 30th USENIX Security Symposium.
 * Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). [Do Automated Legal Threats Reduce Freedom of Expression Online? 🤖🤭 Preliminary Results from a Natural Experiment.](https://citizensandtech.org/2020/09/chilling-effect-automated-law-enforcemen/) ([preprint](https://osf.io/nc7e2/)).
@@ -58,7 +69,6 @@ I am also a co-founder and executive committee member of the [Coalition for Inde
 <!--* J. Nathan Matias, Austin Hounsel, and Melissa Hopkins (2018) [Do big Social Media Platforms Have Effective Ad Policies?](https://www.theatlantic.com/technology/archive/2018/11/do-big-social-media-platforms-have-effective-ad-policies/574609/). TheAtlantic.com-->
 <!--* [Why I’m going on the Academic Job Market](https://medium.com/@natematias/why-im-going-on-the-academic-job-market-88caa704c8e1), by J. Nathan Matias-->
 <!--* Gaffney, D., & Matias, J. N. (2018). [Caveat Emptor, Computational Social Science: Large-Scale Missing Data in a Widely-Published Reddit Corpus](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0200162).  PLoS ONE 13(7): e0200162. https://doi.org/10.1371/journal.pone.0200162-->
-<!--* Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-Led Experiments in Platform Governance](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 9). ACM.-->
 <!--* [The Obligation to Experiment: Tech companies should test the effects of their products on our safety and civil liberties. We should also test them ourselves](https://medium.com/mit-media-lab/the-obligation-to-experiment-83092256c3e9), by Allan Ko, Merry Mou, and J. Nathan Matias-->
 <!--* Matias, J. N. (2017). [Ensuring Beneficial Outcomes of Platform Governance by Massively Scaling Research and Accountability](https://dangerousspeech.org/wp-content/uploads/2017/08/2017-08_harmfulspeech.pdf#page=49). Harmful Speech Online, 49.-->
 <!--* [Launching today: new collaborative study to diminish abuse on Twitter](https://medium.com/@susanbenesch/launching-today-new-collaborative-study-to-diminish-abuse-on-twitter-2b91837668cc), by Susan Benesch and J. Nathan Matias-->
