@@ -16,7 +16,7 @@ In June of 2023, the writer and media artist [Ivan Sigal](https://ivansigal.net/
 
 Personally, the ride gave me an opportunity to bring together multiple parts of my identity into a single unified project: a Guatemalan-American, an organizer of citizen science, a cyclist, and a person with a severe respiratory disability. 
 
-All told, I wrote ten articles about the journey, and we raised over seven thousand thousand dollars for the Central California Environmental Justice Network and the indigenous language program Rising Voices. I'm especially proud of the feature article I wrote for Adventure Cyclist's fall 2023 issue on bicycles as tools for social change.
+All told, I wrote ten articles about the journey, and we raised over seven thousand dollars for the Central California Environmental Justice Network and the indigenous language program Rising Voices. I'm especially proud of the feature article I wrote for Adventure Cyclist's fall 2023 issue on bicycles as tools for social change.
 
 Here are two links that will give you the clearest summary of our ride. The Global Voices pages includes links to all the other articles.
 

@@ -25,14 +25,16 @@ I am also a co-founder and executive committee member of the [Coalition for Inde
 <a href="https://independenttechresearch.org/"><img alt="Coalition for Independent Technology Research" src="images/CITR-logo.png" style="height:65px;"/></a> 
 
 ### Recent News
+* Matias, J.N (2024) [Contributing to the US National Strategy for STEMM Equity & Excellence 2050](https://citizensandtech.org/2024/05/contributing-to-the-us-national-strategy-for-stemm-equity-excellence-2050/). Citizens and Technology Lab.
 * Matias, J.N. (2023) [Science for Survival and Hope: Receiving the Rise25 Award from Mozilla](https://natematias.medium.com/science-for-survival-and-hope-9c5195264c60). Medium
 
 ### Recent Scientific Research
-Here are some of my most recent scientific publications, organized by topic ([full publication list here](https://natematias.com/publications/)).
+Here are recent scientific publications, organized by topic ([full publication list here](https://natematias.com/publications/)).
 
 #### Human-AI Behavior
-<!--* Wright, L., Muenster, R., Vecchione, B., Qu, T., Cai, S., Smith, A., Student Investigators, Metcalf, J., Matias, J.N. (Jan 22, 2024) [Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability](https://osf.io/4y7d2). DOI 10.17605/OSF.IO/UPFDK
-  * Blog post: [Studying how employers comply with NYC's new hiring algorithm law](https://citizensandtech.org/research/2024-algorithm-transparency-law/)-->
+* Wright, L., Muenster, R., Vecchione, B., Qu, T., Cai, S., Smith, A., Student Investigators, Metcalf, J., Matias, J.N. (Jan 22, 2024) [Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability](https://  osf.io/upfdk/). ACM Conference on Fairness, Accountability, and Transparency.
+  * Blog post: [Studying how employers comply with NYC's new hiring algorithm law](https://citizensandtech.org/research/2024-algorithm-transparency-law/)
+  * Cornell award: [Matias awarded for community-engaged hiring transparency project](https://einhorn.cornell.edu/matias-awarded-for-community-engaged-hiring-transparency-project/)
 * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
 * Matias, J.N. (2023) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports (Nature).
   * Blog post: [A Rosetta Stone for Socio-Technical Science of Human-Algorithm Behavior](https://citizensandtech.org/2023/07/rosetta-stone/)
@@ -43,7 +45,7 @@ Here are some of my most recent scientific publications, organized by topic ([fu
 * Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.
   * Project Site: [Community-Centered Ethics Systems](https://citizensandtech.org/research/research-ethics-systems/)
 * Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency
-  * Blog post: [When researchers study average treatment effects, the findings often exclude minority groups](https://citizensandtech.org/research/n-of-one-trials/)"
+  * Blog post: [When researchers study average treatment effects, the findings often exclude minority groups](https://citizensandtech.org/research/n-of-one-trials/)
 <!--* Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-Led Experiments in Platform Governance](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 9). ACM.-->
 
 #### Diversity/Equity/Inclusion in Science

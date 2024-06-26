@@ -62,6 +62,10 @@ Maple producers you can visit on Maple Weekend
 * Schoolyard Sugarbush, Newfield NY (no climing required)
 * Sweetrees Maple Products, Berkshire NY (I loved my visit in 2021)
 
+Haudenosaune maple producers:
+* <a href="https://www.wahtamaple.com/">Wáht<u>a</u>’</a> Maple Farm Syrup from the Oneida Nation.
+* <a href="https://www.facebook.com/GakwiyohFarms/">Gakwi:yo:h Farms</a>, from the Seneca Nation, which I do not believe they sell commercially
+
 Shops and famer's market where you will find small-batch producers:
 * Ithaca Farmer's Market, Saturdays at the Triphammer Mall
 * Brookton's Market, Brooktondale NY
@@ -101,7 +105,7 @@ You will know your own local conditions better than anyone, but if you're less u
 I'm planning to wear lots of wool!
 
 ### Fueling your ride with maple syrup
-When I told a friend it would could take me up to a half gallon of Maple syrup to ride from Ithaca to Lake Placid, she got a bit wide-eyed. To anyone who's not an endurance athlete, this won't be a surprise. At my pace, a 250-300 mile ride will easily involve 20-24 hours of elapsed ride time and use ten to twelve thousand calories. Much of this will need to come from carbohydrates at the pace I ride.
+When I told a friend it could take me up to a half gallon of Maple syrup to ride from Ithaca to Lake Placid, she got a bit wide-eyed. To anyone who's not an endurance athlete, this won't be a surprise. At my pace, a 250-300 mile ride will easily involve 20-24 hours of elapsed ride time and use ten to twelve thousand calories. Much of this will need to come from carbohydrates at the pace I ride.
 
 If you're planning a longer ride, I expect you'll know how to manage nutrition. But maple might be new to you. I have found Cody Beals's [guide to homebrew maple + maltodextrin energy drink to be very helpful](https://www.codybeals.com/2013/06/endurance-eats-homebrew-sport-drink/). This recipe takes advantage of multiple pathways for carbohydrate absorption and includes electrolytes. 
 

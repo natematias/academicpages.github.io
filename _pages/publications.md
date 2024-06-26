@@ -25,6 +25,7 @@ I work on these three challenges through the [Citizens and Technology Lab](https
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=dxS6iCgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 <h2>Peer Reviewed Journal Articles &amp; Conference Publications</h2>
+* Wright, L., Muenster, R., Vecchione, B., Qu, T., Cai, S., Smith, A., Student Investigators, Metcalf, J., Matias, J.N. (Jan 22, 2024) [Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability](https://osf.io/upfdk/). ACM Conference on Fairness, Accountability, and Transparency. DOI [10.17605/OSF.IO/UPFDK](https://osf.io/upfdk/)
 * Zong, J., & Matias, J. N. (2023). [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https://dl.acm.org/doi/10.1145/3630107). ACM Journal on Responsible Computing.
 * Matias, J.N. (2023) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports.
 * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
