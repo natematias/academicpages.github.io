@@ -10,7 +10,7 @@ redirect_from:
 
 I study digital governance and behavior change in groups and networks shaped by AI systems. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
 
-<p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social pscychology and computer science.</p> 
+<p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social psychology and computer science.</p> 
 
 I am also a co-founder and executive committee member of the [Coalition for Independent Technology Research](https://independenttechresearch.org/).
 <hr/>
@@ -81,6 +81,10 @@ Here are recent scientific publications, organized by topic ([full publication l
 * Matias, J.N. (2022) [How to avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight). Knight First Amendment Institute, Columbia University
 * Matias, J. N., Lewis, N., Hope, E. (2021) [Universities Say They Want More Diverse Faculties. So Why is Academia So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/). FiveThirtyEight.
 * Matias, J.N. (2020) [Why We Need Industry-Independent Research on Tech & Society 🍔](https://citizensandtech.org/2020/01/industry-independent-research/). Cornell Citizens &amp; Technology Lab.
+
+### Organizations
+* Co-founder and executive committee, [Coalition for Independent Technology Resarch](https://independenttechresearch.org/).
+* Board Member, Friends of [Global Voices](https://globalvoices.org/) ([learn more about Global Voices](https://globalvoices.org/about/)).
 
 ### Guide for Journalists &amp; Event Organizers
 

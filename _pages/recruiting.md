@@ -123,21 +123,22 @@ Here is a list of the students I'm lucky enough to advise and serve as a committ
 
 * Matias, J. N., Munger, K., Le Quere, M. A., & Ebersole, C. (2021). [The Upworthy Research Archive, a time series of 32,487 experiments in US media](https://www.nature.com/articles/s41597-021-00934-7). Scientific Data, 8(1), 1-6. 
 
-### Jonathan Zong
-![image Jonathan Zong](https://citizensandtech.org/wp-content/uploads/2021/02/899466367687708711-190130-zong-jonathan-0012.full_-200x200.jpg)
-[Jonathan](https://jonathanzong.com/) is a visual artist and computer scientist who uses design as a method for understanding how interaction mediates the relationship between abstract data models and the social world. I advised Jonathan's undergraduate thesis at Princeton, he was a visiting graduate fellow at CAT Lab in 2019. He is now a PhD student at MIT and a graduate research fellow at CAT Lab. We have developed numerous projects together focused on software design and research ethics. I serve on Jonathan's PhD committee.
-
-* 2020 · [From Individual Consent to Collective Refusal](https://jonathanzong.com/assets/papers/xrds-refusal-2020.pdf) · Jonathan Zong. ACM XRDS (Crossroads).
-* 2018 · [Automated Debriefing: Interface for Large-Scale Research Ethics](https://jonathanzong.com/assets/papers/automated-debriefing-cscw-2018.pdf) · Jonathan Zong, J. Nathan Matias. Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing. (Best Demo Award)
-
 # Past Students
 I am so grateful for and proud of the students who I have gotten to work with over the years. 
+
+### Dr. Jonathan Zong
+![image Jonathan Zong](https://citizensandtech.org/wp-content/uploads/2021/02/899466367687708711-190130-zong-jonathan-0012.full_-200x200.jpg)
+[Jonathan](https://jonathanzong.com/) is a visual artist and computer scientist who uses design as a method for understanding how interaction mediates the relationship between abstract data models and the social world. I advised Jonathan's undergraduate thesis at Princeton, he was a visiting graduate fellow at CAT Lab in 2019. After a PhD in Computer Science at MIT, Jonathan took up a position as a fellow at the Berkman-Klein Center at Harvard in advance of starting a faculty position at the University of Colorado Boulder Information Science department. We have developed numerous projects together focused on software design and research ethics. I served on Jonathan's PhD committee.
+
+* * Zong, J., Matias, J.N. (2023) [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https:// dl.acm.org/doi/10.1145/3630107). ACM Journal of Responsible Computing
+* 2020 · [From Individual Consent to Collective Refusal](https://jonathanzong.com/assets/papers/xrds-refusal-2020.pdf) · Jonathan Zong. ACM XRDS (Crossroads).
+* 2018 · [Automated Debriefing: Interface for Large-Scale Research Ethics](https://jonathanzong.com/assets/papers/automated-debriefing-cscw-2018.pdf) · Jonathan Zong, J. Nathan Matias. Companion of the 2018 ACM Conference on Computer Supported Cooperative Work and Social Computing. (Best Demo Award)
 
 ### Dr. Aparajita Bhandari
 ![image Aparajita Bhandari](/images/students/aparajita-bhandari.jpg) Aparajita studies social media and social movements, algorithms and governance of platforms, and technology and community. Iserved on Aparajita's PhD committee and have supported her work on [digital infrastructure projects led by homeless people in New York City](https://citizensandtech.org/2019/12/new-directions-for-citizen-research-action/#homelessness). I served on PhD Aparajita's committee.
 
 ### Dr. Maurice Jakesch
-![image Maurice Jakesch](/images/students/jakesch3.jpg) Maurice was an Information Science PhD candidate at Cornell Tech, where he studies how people decide what’s credible or authentic in a networked society. I served on Maurice's PhD committee. 
+![image Maurice Jakesch](/images/students/jakesch3.jpg) Maurice was an Information Science PhD candidate at Cornell Tech, where he studied how people decide what’s credible or authentic in a networked society. I served on Maurice's PhD committee. 
 
 ### Prateek Rai
 ![image Prateek Rai](/images/students/prateek-rai.jpg) Prateek completed his Master's degree in Information Science at Cornell in 2020. That year, he worked with CAT Lab on a project to evaluate web browser privacy protections. After Cornell, Prateek joined a platform trust and safety team as a data scientist.
