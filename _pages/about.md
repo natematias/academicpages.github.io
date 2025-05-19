@@ -10,9 +10,10 @@ redirect_from:
 
 I study digital governance and behavior change in groups and networks shaped by AI systems. I collaborate with the public in citizen behavioral science, working for a world where digital power is guided by evidence and accountable to the public.
 
+
 <p>I am a Guatemalan-American assistant professor at the Cornell University Departments of Communication and Information Science, where I lead the <a href="https://citizensandtech.org">Citizens &amp; Technology Lab</a> (<a href="bio/">full bio here</a>). My research contributes to scholarship in social psychology and computer science.</p> 
 
-I am also a co-founder and executive committee member of the [Coalition for Independent Technology Research](https://independenttechresearch.org/).
+I also do science and organizing to support and protect researchers who work in the public interest. I am a co-founder and executive committee member of the [Coalition for Independent Technology Research](https://independenttechresearch.org/).
 <hr/>
 
 <!--**I have sunsetted my Twitter account.** My last tweet was made on Nov 17, 2022. Aside from tweets announcing this decision, no more recent tweets are authentic. To keep up with me and my work, please follow my accounts <a href="https://social.coop/@natematias">on Mastodon</a> and <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/natematias">LinkedIn</a>, and [see the /updates/ page, which contains links and a sign-up](/updates/).-->
@@ -25,16 +26,21 @@ I am also a co-founder and executive committee member of the [Coalition for Inde
 <a href="https://independenttechresearch.org/"><img alt="Coalition for Independent Technology Research" src="images/CITR-logo.png" style="height:65px;"/></a> 
 
 ### Recent News
+* Amy Orben and I have published an article in *Science* on [Fixing the science of digital technology harms](https://www.science.org/doi/10.1126/science.adt6807). I have [published a summary in this post](https://citizensandtech.org/2025/04/fixing-science-tech-safety/).
+* In 2025, I am honored to be serving on [the advisory board of the UN Human Development Report](https://hdr.undp.org/reports-and-publications/towards-2025-human-development-report), which is looking at the impact of digitalization, including AI, in human development.
 * Matias, J.N (2024) [Contributing to the US National Strategy for STEMM Equity & Excellence 2050](https://citizensandtech.org/2024/05/contributing-to-the-us-national-strategy-for-stemm-equity-excellence-2050/). Citizens and Technology Lab.
 * Matias, J.N. (2023) [Science for Survival and Hope: Receiving the Rise25 Award from Mozilla](https://natematias.medium.com/science-for-survival-and-hope-9c5195264c60). Medium
 
 ### Recent Scientific Research
 Here are recent scientific publications, organized by topic ([full publication list here](https://natematias.com/publications/)).
 
-#### Human-AI Behavior
+#### Science and Technology Policy
+* Orben, A., & Matias, J. N. (2025). [Fixing the science of digital technology harms](https://www.science.org/doi/full/10.1126/science.adt6807?casa_token=NwS84380sz8AAAAA%3AM6v4JZi9nB79vFkH5GKlcuDQHP27h4Q9vOV3BPAgD-nGSkUt8akwBZgqRhgACG2RqUONLjL37nBFdM0). Science, 388(6743), 152-155.
 * Wright, L., Muenster, R., Vecchione, B., Qu, T., Cai, S., Smith, A., Student Investigators, Metcalf, J., Matias, J.N. (Jan 22, 2024) [Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability](https://  osf.io/upfdk/). ACM Conference on Fairness, Accountability, and Transparency.
   * Blog post: [Studying how employers comply with NYC's new hiring algorithm law](https://citizensandtech.org/research/2024-algorithm-transparency-law/)
   * Cornell award: [Matias awarded for community-engaged hiring transparency project](https://einhorn.cornell.edu/matias-awarded-for-community-engaged-hiring-transparency-project/)
+
+#### Human-AI Behavior
 * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
 * Matias, J.N. (2023) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports (Nature).
   * Blog post: [A Rosetta Stone for Socio-Technical Science of Human-Algorithm Behavior](https://citizensandtech.org/2023/07/rosetta-stone/)
@@ -48,7 +54,7 @@ Here are recent scientific publications, organized by topic ([full publication l
   * Blog post: [When researchers study average treatment effects, the findings often exclude minority groups](https://citizensandtech.org/research/n-of-one-trials/)
 <!--* Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-Led Experiments in Platform Governance](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 9). ACM.-->
 
-#### Diversity/Equity/Inclusion in Science
+#### Safeguarding Science
 * Matias, J.N., Lewis, N. A., Hope, E. (2022) [U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4). Nature Human Behavior.
   * Flaherty, Colleen (2022) [Study finds true faculty diversity possible by 2050](https://www.insidehighered.com/news/2022/12/06/study-finds-true-faculty-diversity-possible-2050). Inside Higher Ed.
 * Matias, J. N. (2019). [Preventing harassment and increasing group participation through social norms in 2,190 online science discussions](/media/JNM-Preventing-Harassment-PNAS-2019.pdf). Proceedings of the National Academy of Sciences, 116(20), 9785-9789.

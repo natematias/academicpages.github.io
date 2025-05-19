@@ -42,12 +42,12 @@ At CAT Lab, we are advancing a world where digital power is guided by evidence a
 
 We are distinctive for [developing our research agendas directly with affected communities](https://www.insidehighered.com/advice/2021/04/22/identifying-research-topics-will-not-only-advance-science-also-improve-broader). If you are excited about making knowledge-creation in computing and the social sciences [more inclusive, diverse, and democratic](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf), we are the lab for you.
 
-CAT Lab typically takes on three **kinds of projects**:
+CAT Lab typically takes on several **kinds of projects**:
 
 * Research studies / audits that contribute to the social sciences, especially focused on human-algorithm behavior and the psychology of social norms ([example](https://www.pnas.org/content/118/16/e2013833118.short))
 * Computer science papers on novel datasets or systems/algorithms we develop to support those studies ([example 1](https://jonathanzong.com/assets/papers/automated-debriefing-cscw-2018.pdf), [example 2](https://www.nature.com/articles/s41597-021-00934-7))
 * Projects in computer science and the social sciences that broaden diversity through citizen science and public engagement ([example](https://citizensandtech.org/research/n-of-one-trials/))
-* Big-picture articles that summarize or argue an important point to academics, civil society, and policymakers ([example](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/))
+* Big-picture review articles that summarize or argue an important point to academics, civil society, and policymakers ([example](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/))
 
 CAT Lab's funding model is [independent from the technology industry](https://citizensandtech.org/2020/01/industry-independent-research/), which frees us to do public-interest work whether or not companies find our results comfortable.
 
@@ -186,6 +186,6 @@ In recent years, I have:
 I am especially energized when contributing to projects that support excellence among people who aren't commonly included in academia—people who I am excited to see grow personally as your perspectives and creativity transform your institutions and your fields.
 
 # Questions / Answers
-* **Does CAT Lab advise undergraduate students?** Right now CAT Lab is not recruiting new undergraduate research assistants, sorry!
+* **Does CAT Lab advise current Cornell undergraduate students for senior theses and other projects?** Right now CAT Lab is not recruiting new research assistants to contribute to projects during their undergraduate degree, sorry!
 * **Can we meet up before I apply?** If you're thinking about applying, that's a good sign you should apply! To keep things fair for everyone, I have decided not to hold meetings with prospective applicants in advance of the admissions date. I hope this document answers common questions.
 * **Can I join CAT Lab from Cornell Tech?** Although CAT Lab meets at Cornell Tech in New York City regularly, I am not currently able to advise PhD students based at Cornell Tech.
