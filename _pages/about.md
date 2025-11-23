@@ -26,8 +26,9 @@ I also do science and organizing to support and protect researchers who work in 
 <a href="https://independenttechresearch.org/"><img alt="Coalition for Independent Technology Research" src="images/CITR-logo.png" style="height:65px;"/></a> 
 
 ### Recent News
+* Megan Price and I have published an article in *PNAS* on [How Public Involvement Can Improve the Science of AI](https://www.pnas.org/doi/10.1073/pnas.24211111220). The article is [summarized in this post](https://citizensandtech.org/2025/11/participatory-science-pnas/).
 * Amy Orben and I have published an article in *Science* on [Fixing the science of digital technology harms](https://www.science.org/doi/10.1126/science.adt6807). I have [published a summary in this post](https://citizensandtech.org/2025/04/fixing-science-tech-safety/).
-* In 2025, I am honored to be serving on [the advisory board of the UN Human Development Report](https://hdr.undp.org/reports-and-publications/towards-2025-human-development-report), which is looking at the impact of digitalization, including AI, in human development.
+* In 2025, I was honored to be serving on [the advisory board of the UN Human Development Report](https://hdr.undp.org/reports-and-publications/towards-2025-human-development-report), which is looking at the impact of digitalization, including AI, in human development.
 * Matias, J.N (2024) [Contributing to the US National Strategy for STEMM Equity & Excellence 2050](https://citizensandtech.org/2024/05/contributing-to-the-us-national-strategy-for-stemm-equity-excellence-2050/). Citizens and Technology Lab.
 * Matias, J.N. (2023) [Science for Survival and Hope: Receiving the Rise25 Award from Mozilla](https://natematias.medium.com/science-for-survival-and-hope-9c5195264c60). Medium
 
@@ -36,23 +37,20 @@ Here are recent scientific publications, organized by topic ([full publication l
 
 #### Science and Technology Policy
 * Orben, A., & Matias, J. N. (2025). [Fixing the science of digital technology harms](https://www.science.org/doi/full/10.1126/science.adt6807?casa_token=NwS84380sz8AAAAA%3AM6v4JZi9nB79vFkH5GKlcuDQHP27h4Q9vOV3BPAgD-nGSkUt8akwBZgqRhgACG2RqUONLjL37nBFdM0). Science, 388(6743), 152-155.
+* Matias, J.N., Penney, J. (2025) [Science and Causality in Technology Litigation](https://tsjournal.org/index.php/jots/article/view/233) in the Journal of Online Trust and Safety.
 * Wright, L., Muenster, R., Vecchione, B., Qu, T., Cai, S., Smith, A., Student Investigators, Metcalf, J., Matias, J.N. (Jan 22, 2024) [Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability](https://  osf.io/upfdk/). ACM Conference on Fairness, Accountability, and Transparency.
   * Blog post: [Studying how employers comply with NYC's new hiring algorithm law](https://citizensandtech.org/research/2024-algorithm-transparency-law/)
   * Cornell award: [Matias awarded for community-engaged hiring transparency project](https://einhorn.cornell.edu/matias-awarded-for-community-engaged-hiring-transparency-project/)
 
 #### Human-AI Behavior
+* Matias, J.N., Price, M. (2025) [How Public Involvement Can Improve the Science of Artificial Intelligence](https://www.pnas.org/doi/10.1073/pnas.2421111122). Proceedings of the National Academy of Science.
 * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
 * Matias, J.N. (2023) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports (Nature).
-  * Blog post: [A Rosetta Stone for Socio-Technical Science of Human-Algorithm Behavior](https://citizensandtech.org/2023/07/rosetta-stone/)
+<!--  * Blog post: [A Rosetta Stone for Socio-Technical Science of Human-Algorithm Behavior](https://citizensandtech.org/2023/07/rosetta-stone/)-->
 
 #### Research Methods and Ethics
 * Zong, J., Matias, J.N. (2023) [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https://dl.acm.org/doi/10.1145/3630107). ACM Journal of Responsible Computing 
 * Matias, J. N., Munger, K., Aubin Le Quere, M., Ebersole, C. (2021) [The Upworthy Research Archive, a time series of 32,487 experiments in U.S. media](https://doi.org/10.  1038/s41597-021-00934-7). Scientific Data (Nature).
-* Zong, J., Matias, J.N. (2022) [Bartleby: Procedural and Substantive Ethics in the Design of Research Ethics Systems](https://journals.sagepub.com/doi/10.1177/20563051221077021). Social Media + Society.
-  * Project Site: [Community-Centered Ethics Systems](https://citizensandtech.org/research/research-ethics-systems/)
-* Matias, J.N., Pennington, E. Chan, Z.T. (2022) [Testing Concerns about Technology’s Behavioral Impacts with N-of-one Trials](https://dl.acm.org/doi/abs/10.1145/3531146.3533227). ACM Conference on Fairness, Accountability, and Transparency
-  * Blog post: [When researchers study average treatment effects, the findings often exclude minority groups](https://citizensandtech.org/research/n-of-one-trials/)
-<!--* Matias, J. N., & Mou, M. (2018, April). [CivilServant: Community-Led Experiments in Platform Governance](https://natematias.com/media/Community_Led_Experiments-CHI_2018.pdf). In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (p. 9). ACM.-->
 
 #### Safeguarding Science
 * Matias, J.N., Lewis, N. A., Hope, E. (2022) [U.S. Universities Are Not Succeeding in Diversifying Faculty](https://www.nature.com/articles/s41562-022-01495-4). Nature Human Behavior.
@@ -83,8 +81,9 @@ Here are recent scientific publications, organized by topic ([full publication l
 <!--* [Teaching the craft, ethics, and politics of field experiments](https://freedom-to-tinker.com/2018/07/03/teaching-the-craft-ethics-and-politics-of-field-experiments/), by J. Nathan Matias-->
 
 ### Recent Public Writing
-* Matias, J.N. (2023) [To Hold Tech Accountable, Look to Public Health](https://www.wired.com/story/tech-governance-public-health/). WIRED
-* Matias, J.N. (2022) [How to avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight). Knight First Amendment Institute, Columbia University
+* Matias, J.N. (2025) [Protecting Fundamental Rights with the Science of Civil Liberties](https://citizensandtech.org/2025/07/civil-liberties-science/). Citizens and Technology Lab.
+* Matias, J.N. (2023) [To Hold Tech Accountable, Look to Public Health](https://www.wired.com/story/tech-governance-public-health/). WIRED.
+<!--* Matias, J.N. (2022) [How to avoid Social Media Blight](https://knightcolumbia.org/blog/how-to-avoid-social-media-blight). Knight First Amendment Institute, Columbia University-->
 * Matias, J. N., Lewis, N., Hope, E. (2021) [Universities Say They Want More Diverse Faculties. So Why is Academia So White?](https://fivethirtyeight.com/features/universities-say-they-want-more-diverse-faculties-so-why-is-academia-still-so-white/). FiveThirtyEight.
 * Matias, J.N. (2020) [Why We Need Industry-Independent Research on Tech & Society 🍔](https://citizensandtech.org/2020/01/industry-independent-research/). Cornell Citizens &amp; Technology Lab.
 

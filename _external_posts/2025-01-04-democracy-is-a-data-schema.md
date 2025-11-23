@@ -6,4 +6,4 @@ publisher: Medium
 title: Democracy is a Data Schema
 ---
 
-Learning from the EPA about trustworthy tech governanceActive EPA air pollution monitors, as of January 2025What does a trustworthy tech governance system look like?
+Learning from the EPA about trustworthy tech governance. What does a trustworthy tech governance system look like?

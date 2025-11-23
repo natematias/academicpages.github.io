@@ -25,6 +25,10 @@ I work on these three challenges through the [Citizens and Technology Lab](https
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=dxS6iCgAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
 <h2>Peer Reviewed Journal Articles &amp; Conference Publications</h2>
+* Matias, J.N., Price, M. (2025) [How Public Involvement Can Improve the Science of Artificial Intelligence](https://www.pnas.org/doi/10.1073/pnas.2421111122). Proceedings of the National Academy of Science.
+* Orben, A., & Matias, J. N. (2025). [Fixing the science of digital technology harms](https://www.science.org/doi/full/10.1126/science.adt6807?                         casa_token=NwS84380sz8AAAAA%3AM6v4JZi9nB79vFkH5GKlcuDQHP27h4Q9vOV3BPAgD-nGSkUt8akwBZgqRhgACG2RqUONLjL37nBFdM0). Science, 388(6743), 152-155.
+* Matias, J. N., & Penney, J. W. (2025). [Science and Causality in Technology Litigation](https://doi.org/10.54501/jots). Journal of Online Trust and Safety, 2 (5). https://doi.org/10.54501/jots. v2i5. 233.
+* Le Quéré, M. A., Matias, J.N. (2024) [When Curiosity Gaps Backfire: Effects of Headline Concreteness on Information Selection Decisions. Scientific Reports](http://concreteness.mariannealq.com/) Scientific Reports (Nature)(forthcoming)
 * Wright, L., Muenster, R., Vecchione, B., Qu, T., Cai, S., Smith, A., Student Investigators, Metcalf, J., Matias, J.N. (Jan 22, 2024) [Null Compliance: NYC Local Law 144 and the Challenges of Algorithm Accountability](https://osf.io/upfdk/). ACM Conference on Fairness, Accountability, and Transparency. DOI [10.17605/OSF.IO/UPFDK](https://osf.io/upfdk/)
 * Zong, J., & Matias, J. N. (2023). [Data Refusal From Below: A Framework for Understanding, Evaluating, and Envisioning Refusal as Design](https://dl.acm.org/doi/10.1145/3630107). ACM Journal on Responsible Computing.
 * Matias, J.N. (2023) [Influencing Recommendation Algorithms to Reduce the Spread of Unreliable News by Encouraging Humans to Fact-Check Articles, in a Field Experiment](https://www.nature.com/articles/s41598-023-38277-5). Scientific Reports.
